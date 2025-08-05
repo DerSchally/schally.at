@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40">
+<g>
+	<line fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" x1="27.5" y1="16" x2="27.5" y2="20"/>
+	<path fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" d="M31,35.5c0,0.8250008-0.6749992,1.5-1.5,1.5h-4c-0.8250008,0-1.5-0.6749992-1.5-1.5v-7.9706707
+		c0-0.8249989,0.4768982-1.9776936,1.0597763-2.5615425l1.3804474-1.3827534c0.5828781-0.583849,1.5366745-0.583849,2.1195526,0
+		l1.3804474,1.3827534C30.5231018,25.5516357,31,26.7043304,31,27.5293293V35.5z"/>
+	<path fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" d="M16,35.5c0,0.8250008-0.6750002,1.5-1.5,1.5h-4C9.6750002,37,9,36.3250008,9,35.5v-7.9706707
+		c0-0.8249989,0.4768991-1.9776936,1.0597754-2.5615425l1.3804493-1.3827534c0.5828762-0.583849,1.5366745-0.583849,2.1195507,0
+		l1.3804493,1.3827534C15.5231009,25.5516357,16,26.7043304,16,27.5293293V35.5z"/>
+	<path fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" d="M12.5,20v-4l-6.3874683-4.1402779c-1.4833755-1.0297642-1.4833755-3.0486546,0-4.0784192L13,3"/>
+	<circle fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" cx="27.5" cy="9.5" r="6.5"/>
+	<path fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" d="M30,9.5c0,1.3807116-1.1192875,2.5-2.5,2.5"/>
+</g>
+</svg>

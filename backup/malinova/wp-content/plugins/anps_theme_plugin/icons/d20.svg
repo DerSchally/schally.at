@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40" >
+<g>
+
+		<ellipse transform="matrix(0.7071068 -0.7071068 0.7071068 0.7071068 -6.1740589 19.8901443)" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" cx="20.9224987" cy="17.3978195" rx="4" ry="4"/>
+	<line fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" x1="19.5082836" y1="17.3978195" x2="22.3367119" y2="17.3978195"/>
+	<path fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" d="M17.4766808,19.4294243c-3.7696629-0.4729786-12.1105318,6.4536781-12.1105318,6.4536781
+		c-0.3905244,0.3905239-1.0236893,0.3905239-1.4142139,0c-0.3905241-0.3905258-0.3905241-1.0236893,0-1.4142151
+		c0,0,6.9234686-8.1958885,13.1913795-8.3837337"/>
+	<polyline fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" points="19.3340378,13.7258606 18.7782784,11.0353956 27.286459,5.3770051 27.9935665,6.0841117
+		22.2870903,11.7905874 22.0971603,13.5734463 	"/>
+	<path fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" d="M18.8917522,20.8444977c0.4729805,3.7696609-6.4536762,12.1105309-6.4536762,12.1105309
+		c-0.3905239,0.3905258-0.3905239,1.0236893,0,1.4142151c0.3905249,0.390522,1.0236893,0.390522,1.4142141,0
+		c0,0,8.1958895-6.9234695,8.3837328-13.1913795"/>
+	<polyline fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" points="24.5953159,18.9871387 27.2857819,19.5429001 32.9441719,11.0347185 32.2370644,10.3276119
+		26.5305901,16.0340881 24.7477322,16.2240181 	"/>
+</g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40" >
+<g>
+	<path fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" d="M16.0316372,10C14.5003405,10.541667,10,14.6949673,10,24.9305191C10,27.9329491,13.5028248,30,20,30
+		s10-2.0670509,10-5.0694809C30,14.6949673,25.4996605,10.541667,23.9683628,10"/>
+	<circle fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" cx="20" cy="20" r="4"/>
+	<path fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" d="M36.0316391,10C34.5003395,10.541667,30,14.6949673,30,24.9305191
+		c0,2.3122959,2.0775871,4.0698013,6.0005035,4.7555866"/>
+	<path fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" d="M4,10c1.5312977,0.541667,6.0316381,4.6949673,6.0316381,14.9305191
+		c0,2.3122959-2.077589,4.0698013-6.0005031,4.7555866"/>
+	<line fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" x1="24" y1="20" x2="36.0316391" y2="20"/>
+	<line fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" x1="4.0158191" y1="20" x2="16" y2="20"/>
+</g>
+</svg>

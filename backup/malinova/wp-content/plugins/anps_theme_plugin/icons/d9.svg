@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40" >
+<g>
+	<line fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" x1="16" y1="28.9997044" x2="24" y2="28.9997044"/>
+	<path fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" d="M23.9683628,26C25.5778694,26,30,21.5319424,30,11.7910805C30,8.9337606,26.4971752,6,20,6
+		s-9.999999,2.9337606-9.999999,5.7910805C10.000001,21.5319424,14.4221315,26,16.0316391,26H23.9683628z"/>
+	<line fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" x1="16" y1="31.9997044" x2="24" y2="31.9997044"/>
+	<line fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" x1="18" y1="34.9997063" x2="22" y2="34.9997063"/>
+</g>
+</svg>

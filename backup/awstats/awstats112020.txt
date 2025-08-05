@@ -1,0 +1,2956 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202011 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1982                
+POS_TIME 2671                
+POS_VISITOR 22781               
+POS_DAY 105142              
+POS_DOMAIN 3633                
+POS_LOGIN 4516                
+POS_ROBOT 4671                
+POS_WORMS 6897                
+POS_EMAILSENDER 7028                
+POS_EMAILRECEIVER 7171                
+POS_SESSION 105519              
+POS_SIDER 105730              
+POS_FILETYPES 7306                
+POS_DOWNLOADS 7725                
+POS_OS 8193                
+POS_BROWSER 8591                
+POS_SCREENSIZE 12730               
+POS_UNKNOWNREFERER 12804               
+POS_UNKNOWNREFERERBROWSER 13334               
+POS_ORIGIN 13624               
+POS_SEREFERRALS 13775               
+POS_PAGEREFS 13992               
+POS_SEARCHWORDS 22063               
+POS_KEYWORDS 22215               
+POS_MISC 2334                
+POS_ERRORS 22274               
+POS_CLUSTER 4372                
+POS_SIDER_404 22421               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20201201000048 2025 764516 11982355650884
+FirstTime 20201120205705
+LastTime 20201130235707
+LastUpdate 20201202014907 2025 0 1435 589 0
+TotalVisits 848                 
+TotalUnique 494                 
+MonthHostsKnown 1456                
+MonthHostsUnknown 328                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 87 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 361 420 4212531 408 433 2453645
+1 301 344 3580511 976 1024 3811693
+2 138 154 1772645 298 349 6477269
+3 150 159 1055882 179 199 1628163
+4 1102 1159 13504143 560 597 5963254
+5 389 433 2046015 424 443 3379495
+6 158 178 824616 297 332 1489973
+7 146 207 6208412 401 451 3450858
+8 443 553 8064274 365 425 2919329
+9 566 758 17214625 451 498 1379628
+10 468 578 4215575 474 531 7910154
+11 463 646 12649399 383 411 3135931
+12 355 454 3562004 422 452 3020570
+13 87 203 3971297 498 570 10549039
+14 166 287 9917408 401 421 639606
+15 657 771 4548068 467 484 690859
+16 41 169 6582810 343 363 853891
+17 214 323 4420463 292 304 323915
+18 157 271 9109745 412 439 751506
+19 394 536 6698291 615 641 1467087
+20 802 947 9156190 986 1010 2873951
+21 448 746 38554469 1007 1073 3281546
+22 952 1070 13829361 727 763 1638861
+23 316 352 3643632 418 441 2895982
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 45
+eu 3121 3252 11237101
+ip 2689 3319 72807225
+com 1799 2151 25285434
+fr 777 784 3548162
+ae 223 228 831159
+net 201 339 11046238
+de 177 660 24039149
+cloud 136 142 351605
+ru 44 68 4909629
+wf 26 26 186068
+biz 0 3 61302
+id 1 1 10022
+nu 1 1 0
+nl 0 1 20434
+is 0 1 149236
+cz 1 3 50879
+lu 0 1 424128
+cc 0 1 155525
+ua 0 1 59459
+jp 7 8 40558
+riskiq 0 1 20434
+ro 2 2 50513
+ch 2 47 1203879
+info 1 1 8768
+it 3 4 70965
+pl 5 7 134957
+br 1 2 30445
+ca 0 2 40868
+ba 0 1 20434
+ph 1 1 102
+dev 4 5 159873
+tv 0 1 20434
+hu 0 3 61302
+fi 2 2 0
+adsl 3 3 20022
+edu 0 2 79219
+in 2 2 50483
+org 17 28 1384427
+ee 0 1 20434
+es 0 1 20434
+at 22 605 30651355
+au 2 2 247
+uk 1 1 36
+expert 0 1 70518
+mx 3 3 8786
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 55
+python 1091 3767725 20201130174533 0
+seokicks\.de 750 3420794 20201130215121 8
+bot[\s_+:,\.\;\/\\-] 687 3673448 20201130210909 43
+Googlebot/ 503 1509009 20201130235036 19
+bingbot/ 371 21805375 20201130232430 24
+infobot 359 2580322 20201130075428 31
+BLEXBot/ 190 1598093 20201130061210 4
+wordpress 168 0 20201130234113 0
+Apache\-HttpClient/ 117 496937 20201126063819 0
+SeznamBot/ 111 717554 20201130125405 54
+dataprovider\.com 40 4639575 20201122133351 1
+MSIE[\x20]5 2 0 20201126084859 0
+Konqueror/ 1 20434 20201122212830 0
+MSIE[\x20]2 3 0 20201129001228 0
+curl 12 635465 20201128215743 0
+link 1 118 20201121124040 1
+ia_archiver 2 159 20201127001549 1
+MSIE[\x20]3 1 0 20201122125719 0
+YandexBot/ 35 108761 20201127075657 12
+AhrefsBot/ 55 1083238 20201130192941 2
+Mail\.RU_Bot/ 6 2798 20201124214226 3
+optimizer 2 159 20201125154654 1
+cfetch 1 69999 20201125081835 0
+DotBot/ 95 5247 20201130231816 33
+MSIE[\x20]6 62 0 20201130145504 0
+Python\-urllib/ 2 0 20201123005603 0
+Applebot/ 95 2113084 20201128101914 9
+bbot 23 170605 20201129003306 4
+[\s_+:,\.\;\/\\-]bot 1 0 20201130044707 0
+Googlebot\-Image/ 3 749418 20201127124723 0
+(firefox/)([0-9]\.|[0-1][0]\.) 30 252478 20201130220257 0
+bingpreview 42 1959272 20201128220811 0
+no_user_agent 6 54436 20201124203834 0
+SemrushBot/ 7 10778 20201130130308 2
+Screaming[\x20]Frog[\x20]SEO[\x20]Spider/ 2 118 20201130140333 1
+Wget/ 3 618127 20201126114749 0
+unknown 12 1498 20201130222839 12
+seek 18 367812 20201122015502 0
+YisouSpider 1 20434 20201121212908 0
+qwantify 10 50045 20201124233209 0
+MojeekBot/ 16 8771 20201130104549 8
+CCBot/ 73 442230 20201129020957 8
+360Spider 3 20022 20201125010207 0
+DuckDuckGo\-Favicons\-Bot/ 22 110073 20201130140128 0
+Deepnet[\x20]Explorer 3 0 20201125091310 0
+^Mozilla/(.*)Beta[\x20]\(Windows\) 3 0 20201130101932 0
+baidu 90 16399787 20201128130744 0
+java 11 0 20201130190215 0
+legs 4 20022 20201128004935 0
+ltx71 1 118 20201128081806 1
+facebookexternalhit/ 9 758732 20201130133402 0
+crawl 72 712127 20201127155019 6
+core 3 61302 20201130205435 0
+favicon 2 9854 20201128132351 0
+MJ12bot/ 53 229567 20201130104921 20
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 18
+json 15 36766 0 0
+xml 1200 3909720 0 0
+jpeg 1 327533 0 0
+js 1673 32415874 0 0
+gif 121 419358 0 0
+xsd 3 7358 0 0
+aspx 52 191318 0 0
+png 408 110524385 0 0
+env 208 713511 0 0
+jpg 35 2966403 0 0
+php 2675 6387556 0 0
+txt 45 132460 0 0
+css 161 2230016 0 0
+htm 515 1810070 0 0
+html 4320 24144655 0 0
+eot 5 197842 0 0
+Unknown 243 444284 0 0
+woff2 38 2483139 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 11
+/ads.txt 28 0 85281
+/wp-content/plugins/iwp-client/readme.txt 12 0 51493
+/data/admin/allowurl.txt 8 0 29366
+/humans.txt 6 0 14693
+/Kalem.txt 6 0 22074
+//wp-content/plugins/iwp-client/readme.txt 5 0 0
+/wp-content/uploads/2019/07/Files/spy.txt 4 0 14716
+/sitemap.xml.gz 2 0 7358
+/wp-content/plugins/downloads-manager/readme.txt 2 0 7336
+/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl 1 0 1387
+/robots.txt 0 1 118
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 24
+linux 4671 4328
+Unknown 53 35
+ios_ipad 27 4
+macosx10 8 3
+macosx9 1 0
+ios_iphone 333 20
+macosx6 1132 1130
+win8.1 54 52
+macosx 526 175
+win7 1021 875
+linuxandroid 532 91
+winlong 9 0
+macosx8 3 3
+macosx11 11 2
+win10 3098 2486
+winunknown 1 0
+win2000 3 3
+winxp 9 4
+winnt 7 7
+unix 1 0
+win8 181 33
+macosx7 2 2
+linuxubuntu 8 8
+macosx12 28 13
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 197
+safari5.1.7 1 1
+chrome65.0.3325.181 33 22
+firefox80.0 5 0
+firefox36.0 302 302
+safari12.0.3 4 0
+firefox72.0 1724 1706
+firefox62.0 4 4
+chrome65.0.3056.123 2 2
+chrome55.0.2883.87 33 9
+opera64.0.3417.92 1 1
+opera11.00 2 2
+chrome76.0.3809.100 2 2
+chrome84.0.4147.111 1 0
+netscape 1 1
+firefox60.0 1 0
+chrome74.0.3729.136 2 0
+chrome83.0.4102.0 10 10
+chrome71.0.3563.0 2 0
+safari11.1.2 6 0
+chrome67.0.3396.62 3 3
+chrome80.0.3987.106 3 3
+firefox70.0 1 1
+chrome80.0.3987.116 24 24
+chrome68.0.3440.106 9 9
+msie11.0 70 22
+firefox75.0 7 6
+safari13.0.4 6 4
+safari11.1.1 3 3
+chrome83.0.4103.0 20 13
+chrome86.0.4240.183 6 0
+safari13.1.1 13 0
+opera67.0.3575.79 5 5
+chrome85.0.4183.121 48 6
+chrome76.0.3809.71 12 2
+chrome70.0.3538.77 2 2
+chrome87.0.4280.67 35 0
+chrome70.0.3538.67 1 0
+chrome83.0.4103.34 9 9
+iphone 4 2
+chrome80.0.3987.87 18 18
+chrome68.0.2428.48 3 3
+chrome85.0.4183.81 3 0
+chrome84.0.4147.125 21 15
+chrome80.0.3987.0 1 0
+chrome80.0.3987.149 95 73
+msie7.0 39 8
+chrome78.0.3904.108 71 70
+chrome33.0.1750.517 2 2
+chrome72.0.3626.109 10 1
+chrome26.0.1410.65 3 3
+chrome89.0.4333.0 1 0
+safari11.0 9 0
+chrome71.0.3578.141 1 0
+chrome77.0.3835.0 2 0
+chrome78.0.3904.97 30 9
+chrome84.0.4147.135 1 0
+chrome81.0.4044.92 24 0
+firefox64.0 156 148
+firefox52.0 50 49
+chrome38.0.1025.166 1 0
+chrome49.0.2623.112 1 0
+chrome83.0.4087.0 7 7
+safari13.1.3 7 0
+chrome83.0.4103.106 33 0
+opera9.00 3 3
+Unknown 46 32
+msie8.0 4 0
+android 4 0
+chrome79.0.3945.130 44 44
+firefox41.0 6 6
+chrome79.0 50 50
+safari12.0.1 1 0
+firefox28.0 4090 3861
+chrome87.0.4280.66 209 11
+chrome72.0.3626.119 9 3
+firefox50.0 2 0
+chrome66.0.3359.139 1 1
+safari12.1.2 33 7
+chrome75.0.3770.143 29 4
+chrome83.0.4103.61 104 85
+chrome45.0.2454.94 1 1
+chrome84.0.4143.7 1 0
+safari10.0 17 15
+firefox81.0 19 5
+chrome44.0.2403.155 5 5
+opera66.0.3515.115 5 5
+chrome85.0.4183.83 26 6
+chrome78.0.3904.87 18 18
+chrome86.0.4240.198 328 28
+safari9.1 1 0
+chrome84.0.4147.89 4 1
+opera69.0.3686.7 21 21
+opera12.00 3 3
+firefox63.0 2 2
+safari13.1.2 85 4
+chrome62.0.3225.117 2 2
+safari5.1.3 2 2
+chrome59.0.3071.115 12 12
+chrome73.0.3683.86 1 1
+chrome85.0.4183.101 2 0
+chrome68.0.3440.75 12 12
+edge17 2 2
+chrome78.0.3904.70 1 0
+firefox74.0 27 27
+chrome83.0.4103.24 5 5
+safari14.0.1 185 0
+safari9.1.1 1 1
+chrome64.0.3282.119 2 0
+chrome83.0.4100.3 2 2
+opera60.3.3004.55692 2 0
+safari13.0.3 4 3
+chrome79.0.3945.79 11 9
+safari13.0.5 32 22
+chrome60.0.3112.90 3 3
+chrome79.0.3945.136 48 9
+firefox45.0 56 1
+chrome50.0.2661.102 1 1
+edge14 2 2
+chrome80.0.3987.122 44 44
+chrome71.0.3542.0 1 0
+chrome56.0.2896.3 17 12
+firefox48.0 28 12
+opera67.0.3575.53 4 4
+firefox82.0 76 19
+chrome75.0.3770.142 3 3
+chrome83.0.4103.101 1 0
+chrome75.0.3770.100 2 2
+chrome85.0.4183.127 3 0
+chrome58.0.3029.110 12 4
+safari10.1.2 2 0
+chrome77.0.3865.90 73 0
+chrome81.0.4044.138 6 0
+msie999.1 1 0
+firefox83.0 361 77
+firefox78.0 14 0
+edge15 3 3
+chrome65.0.2728.115 2 2
+safari5.1 1129 1129
+firefox42.0 19 19
+chrome36.0.1985.67 2 2
+chrome80.0.3987.132 51 50
+chrome66.0.3359.117 2 2
+firefox68.0 28 28
+opera72.0.3815.320 17 2
+chrome63.0.3239.132 33 33
+safari11.0.3 1 0
+firefox54.0 20 11
+chrome86.0.4240.185 11 0
+netscape5.0 2 2
+firefox57.0 65 55
+chrome67.0.3396.87 17 15
+chrome79.0.3945.0 1 0
+chrome85.0.4183.102 13 10
+chrome86.0.4240.110 3 0
+chrome30.0.1599.17 3 3
+safari3.0 11 3
+mozilla 7 5
+firefox56.0 4 4
+safari13.1 10 0
+chrome78.0.3904.96 6 0
+chrome67.0.3396.79 12 2
+chrome74.0.3729.169 49 49
+chrome86.0.4240.111 3 0
+chrome27.0.1453.110 6 6
+chrome83.0.4089.0 19 19
+chrome79.0.3945.88 4 4
+firefox73.0 38 38
+chrome83.0.4103.44 14 14
+chrome51.0.2704.106 2 2
+opera11.50 2 2
+safari12.1 1 0
+chrome89.0.4336.0 1 0
+safari12.1.1 1 0
+chrome83.0.4086.0 10 10
+chrome66.0.3359.181 14 14
+edge18 27 14
+chrome65.0.3126.58 3 3
+wap 3 0
+safari 22 0
+firefox58.0 2 2
+msie9.0 326 312
+chrome71.0.3578.98 10 10
+safari13.0.1 1 0
+firefox53.0 1 1
+chrome86.0.4240.193 7 3
+msie10.0 2 2
+chrome51.0.2704.103 15 2
+chrome39.0.2171.95 3 3
+firefox79.0 3 0
+chrome81.0.4044.129 99 98
+firefox40.1 8 8
+chrome83.0.4098.0 6 6
+chrome60.0.3112.107 55 55
+opera54.0.2952.64 7 7
+safari12.0 4 0
+chrome88.0.4240.193 114 114
+safari14.0 125 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+Mozilla/5.0_(compatible;_Wappalyzer) 20201127052908
+Mozilla_5.0 20201121000439
+CERT.at-Statistics-Survey/1.0_(_http://www.cert.at/about/consec/content.html) 20201125191902
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20201128111651
+ping 20201130080318
+MixnodeCache/1.8(_https://cache.mixnode.com/) 20201130191129
+Mozilla/5.0_(compatible;_woorankreview/2.0;__https://www.woorank.com/) 20201127220727
+Go-http-client/1.1 20201130222844
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Go-http-client/1.1 20201130222844
+ping 20201130080318
+MixnodeCache/1.8(_https://cache.mixnode.com/) 20201130191129
+CERT.at-Statistics-Survey/1.0_(_http://www.cert.at/about/consec/content.html) 20201125191902
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 8254 8690
+From1 21 22
+From2 472 481
+From3 36 1430
+From4 491 1096
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+bing 0 1
+www_google_de 4 5
+www_google_com 456 463
+www_google_co_jp 12 12
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 149
+https://sg.shuct.net/cache/Google/en/schally.at 6 6
+https://%20www.schally.at 4 4
+http://www.webwiki.at/schally.at 4 4
+http://www.tsatu.edu.ua 3 3
+https://fototravel.eu 3 3
+https://webxtrakt.com/schally.at 3 3
+https://blackbabesporn.com 2 2
+https://5.132.161.170/autodiscover/autodiscover.xml 2 2
+http://promenade.aiola.at 2 80
+http://%20www.schally.at 1 1
+https://www.landhaus-keller.at 0 8
+http://www.danielaschlick.at/coaching/coachingphasen 0 1
+http://landhauskeller.at 0 1
+http://markusspillmann.ch 0 12
+http://promenade.aiola.at 0 16
+http://www.nervenschmerz.com/sulcusnerviulnarissyndrom 0 1
+http://upstairs.aiola.at/menu/ 0 1
+http://www.nervenschmerz.com/gelenkschmerz/ 0 3
+https://www.alessandri-design.at/en/clients/return/ 0 1
+http://www.nervenschmerz.com/obere-nervenkompressions-syndrome/supinatorsyndrom-arm/ 0 6
+http://www.danielaschlick.at/experteninterview-zum-thema-recuiting-strategien/ 0 3
+https://www.alessandri-design.at/clients/schloss-gobelsburg/ 0 1
+http://www.nervenschmerz.com/pudendus-neuralgie-woman-at/ 0 1
+http://www.marialassnig.org/stiftung/about/ 0 1
+http://www.nervenschmerz.com/fersenschmerz/ 0 2
+https://www.alessandri-design.at/en/clients/sans-souci/ 0 1
+https://www.alessandri-design.at/clients/return/ 0 2
+http://schloss.aiola.at/en/ 0 3
+http://www.nervenschmerz.com/leistenschmerz/ 0 26
+http://www.danielaschlick.at/referenzen/kundenstimmen/ 0 1
+http://www.landhauskeller.at 0 44
+http://www.danielaschlick.at 0 16
+http://www.michellblog.online/blog/16214297/view/ 0 1
+http://www.markowitsch.at 1 1
+http://markusspillmann.ch/denken-druecken-schlucken-sprechen/ 0 1
+http://www.danielaschlick.at/5-tipps-wie-sie-ihre-karriereziele-erreichen/ 0 3
+http://www.michellblog.online/blog/16495812/view/ 0 1
+http://markusspillmann.ch/ueber-mich/ 0 5
+http://www.michellblog.online/blog/13703405/view/ 0 1
+http://www.michellblog.online/blog/16158066/view/ 0 1
+http://www.nervenschmerz.com/obere-nervenkompressions-syndrome/cheiralgia-paraesthetica-hand/ 0 2
+http://markusspillmann.ch/luegen-haben-lange-beine/ 0 2
+http://www.nervenschmerz.com/obere-nervenkompressions-syndrome/pronator-teres-syndrom-unterarm/ 0 3
+https://www.alessandri-design.at/editorial-design/raiffeisen-ware-austria/ 0 2
+https://www.alessandri-design.at 0 13
+http://schloss.aiola.at/team/ 0 2
+http://www.nervenschmerz.com/team 0 3
+https://www.alessandri-design.at/clients/stift-goettweig/ 0 2
+https://www.alessandri-design.at/packaging-design/schwarzbergerhof/ 0 2
+https://www.alessandri-design.at/packaging-design/skiwater/ 0 2
+http://www.nervenschmerz.com/neuropathie/ 0 3
+https://landhaus-keller.at 0 3
+http://schloss.aiola.at/kontakt/ 0 5
+http://www.marialassnig.org 0 89
+http://www.danielaschlick.at/category/bewerben/ 0 3
+http://www.marialassnig.org/werkverzeichnis/ 0 1
+https://www.alessandri-design.at/en/wine-design/niepoort-fabelhaft/ 0 1
+https://landhauskeller.at 0 1
+http://www.landhaus-keller.at 0 6
+http://upstairs.aiola.at 0 21
+http://www.danielaschlick.at/jobfrust-bleibt-nur-das-gehen/ 0 3
+https://www.alessandri-design.at/en/clients/erste-bank/ 0 1
+http://www.danielaschlick.at/zum-jahreswechsel-karrierebilanz-ziehen/ 0 3
+http://www.danielaschlick.at/zur-person 0 1
+http://upstairs.aiola.at/en/jobs/ 0 1
+http://www.marialassnig.org/stiftung/kontakt/ 0 2
+http://www.danielaschlick.at/impressum/ 0 3
+https://www.alessandri-design.at/en/ 0 5
+https://www.alessandri-design.at/clients/erste-bank/ 0 2
+http://www.danielaschlick.at/personalberatung/jobs 0 21
+https://www.alessandri-design.at/annual-report-design/rtr/ 0 2
+https://cert.at/de/services/statistic-survey/ 1 1
+http://www.nervenschmerz.com/obere-nervenkompressions-syndrome/nervus-interosseus-anterior-syndrom/ 0 1
+http://schloss.aiola.at/gastronomie/ 0 3
+https://www.landhaus-keller.at 0 56
+http://www.nervenschmerz.com/1.php 0 1
+https://www.alessandri-design.at/wine-design/tement/ 0 1
+http://www.nervenschmerz.com 0 49
+http://www.nervenschmerz.com 0 332
+http://upstairs.aiola.at/jobs/ 0 2
+http://www.danielaschlick.at/personaler-wollen-bewerber-mit-profil/ 0 3
+http://upstairs.aiola.at/en 0 6
+https://www.alessandri-design.at/corparate-design/dr-tibor-nagy 0 1
+http://www.danielaschlick.at/rezept-fuer-einen-gelungenen-bewerbungsbrief/ 0 3
+https://www.alessandri-design.at/editorial-design/roter-engel 0 2
+http://mhjub.pjty9.com/blog/54471991/view/ 1 1
+http://neethome.com/Kate_Storm/comments/37 1 1
+https://www.alessandri-design.at/work/ 0 1
+http://www.nervenschmerz.com/untere-nervenkompressions-syndrome/meraglia-paraesthetica/ 0 25
+http://www.danielaschlick.at/drei-wichtige-karriereimpulse-fuer-ihren-erfolg/ 0 3
+http://www.nervenschmerz.com/komplexes-regionales-schmerzsyndrom/ 0 2
+http://www.nervenschmerz.com/farbmenu/untere-nervenkompressions-syndrome/lendennervengeflecht/ 0 9
+http://www.danielaschlick.at 0 2
+https://www.alessandri-design.at/corporate-design/shiki/ 0 2
+http://www.michellblog.online/blog/9330221/view/ 0 1
+http://www.danielaschlick.at/kontakt/ 0 2
+http://www.landhaus-keller.at 0 33
+http://www.danielaschlick.at/category/allgemein/ 0 3
+http://www.danielaschlick.at/personalberatung/ 0 3
+https://www.alessandri-design.at/wine-design/the-madeira-collection/ 0 2
+http://5.132.161.170/autodiscover/autodiscover.xml 1 1
+http://www.marialassnig.org/impressum/ 0 1
+http://www.nervenschmerz.com/hinteres-tarsaltunnel-syndrom/ 0 4
+http://upstairs.aiola.at/gutschein/ 0 5
+https://www.alessandri-design.at 0 37
+http://www.marialassnig.org 0 11
+https://www.alessandri-design.at/en/clients/stift-goettweig/ 0 1
+https://www.alessandri-design.at/annual-report-design/rosenbauer/ 0 2
+http://schloss.aiola.at 0 88
+http://www.danielaschlick.at/2016/11/ 0 3
+http://www.nervenschmerz.com/untere-nervenkompressions-syndrome/nervus-peronaeus-communis-wade/ 0 3
+http://upstairs.aiola.at/en/gutschein/ 0 2
+http://www.marialassnig.org/en/ 0 8
+http://www.michellblog.online/blog/11618039/view/ 0 1
+http://www.michellblog.online/blog/24646826/view/ 0 1
+http://www.marialassnig.org/preis/ 0 1
+http://www.danielaschlick.at/10-fiesen-Stressfragen-im-Jobinterview-kontern 0 3
+http://www.danielaschlick.at/blog/fortbildung-foerdert-Karrierechancen 0 3
+https://www.alessandri-design.at/wine-design/hofer-steirischer-wein 0 1
+http://www.marialassnig.org/news/ 0 1
+https://www.alessandri-design.at/packaging-design/domaines-kilger 0 1
+http://www.danielaschlick.at/karriere-laesst-sich-planen/ 0 3
+http://markusspillmann.ch 0 3
+https://www.alessandri-design.at/wine-design/niepoort-fabelhaft/ 0 2
+http://markusspillmann.ch/wer-die-nazi-keule-schwingt/ 0 1
+http://www.nervenschmerz.com/untere-nervenkompressions-syndrome/nervus-peronaeus-superficialis-unterer-unterschenkel/ 0 18
+https://itunes.apple.com 1 1
+http://upstairs.aiola.at/en/ 0 2
+http://schloss.aiola.at 0 17
+http://www.landhauskeller.at 0 6
+http://schloss.aiola.at/gutschein/ 0 7
+http://www.nervenschmerz.com/nervenverletzungen/ 0 6
+http://www.nervenschmerz.com/untere-nervenkompressions-syndrome/ramus-infrapatellaris-unterer-oberschenkel/ 0 11
+http://schloss.aiola.at/hochzeiten/ 0 2
+https://www.alessandri-design.at/packaging-design/suppito/ 0 1
+https://www.alessandri-design.at/clients/ 0 1
+http://promenade.aiola.at/datenschutz.php 0 1
+http://www.nervenschmerz.com/untere-nervenkompressions-syndrome/vorderes-tarsaltunnelsyndrom-sprunggelenk/ 0 19
+https://www.alessandri-design.at/corporate-design/renate-danler/ 0 2
+https://www.alessandri-design.at/clients/sans-souci/ 0 2
+http://landhaus-keller.at 0 1
+http://schloss.aiola.at/en 0 9
+http://upstairs.aiola.at 0 77
+http://www.danielaschlick.at/selbstcoaching-endlich-zur-entscheidung-kommen/ 0 1
+http://www.nervenschmerz.com/untere-nervenkompressions-syndrome/kniekehle-und-unterschenkel/ 0 14
+https://www.alessandri-design.at/wine-design/unger-und-klein-radatz/ 0 2
+http://landhaus-keller.at 0 1
+http://schloss.aiola.at/en/firmenevents/ 0 1
+http://www.nervenschmerz.com/untere-nervenkompressions-syndrome/piriformis-syndrom-gesas/ 0 7
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+400 3 678
+404 2 392
+401 1435 546735
+301 3 718
+403 5838 1161762
+101 1 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1
+/wp-content/cache/minify/bootstrap.min.css.map 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1784
+163-172-226-30.rev.poneytelecom.eu 3066 3194 10892596 20201122125022
+75.0.123.34.bc.googleusercontent.com 780 786 3626883 20201122044210
+lfbn-mon-1-587-68.w2-4.abo.wanadoo.fr 764 770 3521596 20201126221845
+70.37.166.152 288 297 853187 20201121151107
+bba482803.alshamil.net.ae 223 228 831159 20201124204829
+104.131.107.204 194 202 682405 20201126092415
+41.104.15.244 154 158 379687 20201120233054
+58.19.0.5 154 158 97476 20201127073116
+58.19.0.25 133 137 126484 20201122055737
+cloud6956666.nitrado.cloud 132 138 348539 20201124100851
+p5b0ceb26.dip0.t-ipconnect.de 0 1 20434 
+62-47-7-45.adsl.highway.telekom.at 0 1 20434 
+59-153-103-1.dotinternetbd.com 0 1 20434 
+dslb-188-105-198-154.188.105.pools.vodafone-ip.de 0 2 40868 
+52.187.227.109 6 6 7356 20201122160136
+pd9fb2ec6.dip0.t-ipconnect.de 0 1 20434 
+089144205242.atnat0014.highway.webapn.at 0 1 20434 
+ec2-52-23-247-96.compute-1.amazonaws.com 4 4 0 20201128123146
+178-191-229-100.adsl.highway.telekom.at 0 1 20434 
+77.119.131.37.wireless.dyn.drei.com 0 1 20434 
+80-110-121-14.cgn.dynamic.surfer.at 0 1 20434 
+77.119.129.79.wireless.dyn.drei.com 0 1 20434 
+pd9e8eec1.dip0.t-ipconnect.de 0 1 20434 
+212095005158.public.telering.at 0 1 20434 
+194-96-12-221.adsl.highway.telekom.at 0 1 20434 
+opdoek.ricetell.com 2 2 82382 20201128190913
+dslb-088-065-226-060.088.065.pools.vodafone-ip.de 0 1 20434 
+94.0a.2fa9.ip4.static.sl-reverse.com 0 3 61302 
+192.109.129.41 0 1 20434 
+213-225-15-44.nat.highway.a1.net 0 1 20434 
+51.255.3.120 4 4 10002 20201127092524
+cpe90-146-243-91.liwest.at 0 1 20434 
+62-178-14-97.cable.dynamic.surfer.at 0 1 20434 
+ip-109-42-1-120.web.vodafone.de 0 1 20434 
+217.171.147.164 4 4 137245 20201128034741
+ip1f11fc42.dynamic.kabel-deutschland.de 0 1 20434 
+188-22-55-178.adsl.highway.telekom.at 0 1 20434 
+unn-89-187-170-165.cdn77.com 96 100 341145 20201121001322
+205.169.39.123 0 1 20434 
+spider-14.dataprovider.com 1 1 50513 20201122133331
+213162073204.public.t-mobile.at 0 2 40868 
+ec2-3-81-66-197.compute-1.amazonaws.com 1 1 0 20201124205758
+r-51-56-62-5.consumer-pool.prcdn.net 4 4 20908 20201121173415
+94.100.69.195 0 1 20434 
+144.126.192.157 0 10 204340 
+91.141.0.185.wireless.dyn.drei.com 0 1 20434 
+p5dd4fd0a.dip0.t-ipconnect.de 0 1 20434 
+mail.kulmer-bau.at 0 1 20434 
+193-83-133-149.adsl.highway.telekom.at 0 1 20434 
+188.21.81.102 0 1 20434 
+ipb21978c7.dynamic.kabel-deutschland.de 0 1 20434 
+62.8.74.248.wananchi.com 2 2 50483 20201128094403
+ec2-54-93-125-69.eu-central-1.compute.amazonaws.com 0 1 59356 
+ip-109-41-193-92.web.vodafone.de 0 1 20434 
+51-193-69-195.oebb.at 0 1 20434 
+178.165.129.10.wireless.dyn.drei.com 0 1 20434 
+ec2-34-226-215-200.compute-1.amazonaws.com 4 4 0 20201130153048
+178-191-163-113.adsl.highway.telekom.at 0 1 20434 
+p57bdd35a.dip0.t-ipconnect.de 0 1 20434 
+tls-survey.cert.at 1 1 0 20201125191902
+62-46-76-195.adsl.highway.telekom.at 0 1 20434 
+185.231.213.1 0 1 20434 
+ec2-34-238-131-143.compute-1.amazonaws.com 6 6 0 20201130121909
+ec2-35-175-225-55.compute-1.amazonaws.com 7 7 0 20201126174548
+gateway.schneider-consult.at 0 1 20434 
+ec2-54-226-89-193.compute-1.amazonaws.com 3 3 0 20201126013912
+168.151.167.163 1 1 0 20201125183941
+80-110-81-247.cgn.dynamic.surfer.at 0 1 20434 
+p3nlhg144.shr.prod.phx3.secureserver.net 1 1 48 20201124114251
+80-110-124-190.cgn.dynamic.surfer.at 0 1 20434 
+17-12-199.cgnat.fonira.net 0 1 20434 
+217-149-162-71.nat.highway.telekom.at 0 2 40868 
+178.171.109.229 1 1 0 20201121080337
+dslb-084-059-100-035.084.059.pools.vodafone-ip.de 0 1 20434 
+213162072136.public.t-mobile.at 0 2 40868 
+80-108-171-83.cable.dynamic.surfer.at 0 1 20434 
+213-225-38-246.nat.highway.a1.net 0 1 20434 
+dynamic-046-114-001-064.46.114.pool.telefonica.de 0 1 20434 
+ec2-34-229-115-98.compute-1.amazonaws.com 4 4 0 20201130144050
+35.35.105.92.dynamic.wline.res.cust.swisscom.ch 0 1 20434 
+158.81.111.208.static.oricom.ca 0 1 20434 
+clnet-p25-199.ikbnet.co.at 0 1 20434 
+62-47-20-191.adsl.highway.telekom.at 0 1 20434 
+cache.google.com 0 1 20434 
+213.208.157.33 0 1 20434 
+192.71.36.158 0 1 7337 
+dynamic-078-048-046-147.78.48.pool.telefonica.de 0 1 20434 
+51.103.140.114 1 1 0 20201129002933
+dynamic-077-004-061-231.77.4.pool.telefonica.de 0 1 20434 
+mail015.srmvs05.de 1 1 50482 20201124080445
+ip-109-43-50-78.web.vodafone.de 0 1 20434 
+197.25.184.148 114 120 278216 20201124204525
+tmo-121-97.customers.d1-online.com 0 1 20434 
+ip5f5bd602.dynamic.kabel-deutschland.de 0 1 20434 
+aftr-62-216-208-125.dynamic.mnet-online.de 0 1 20434 
+ip5b40d884.dynamic.kabel-deutschland.de 0 1 20434 
+88.201.141.106.pool.sknt.ru 7 7 164017 20201121011542
+77.127.3.11 0 1 20434 
+p4fdfe6c9.dip0.t-ipconnect.de 0 1 20434 
+ip5f5af4a5.dynamic.kabel-deutschland.de 0 1 20434 
+80-110-108-33.cgn.dynamic.surfer.at 0 1 20434 
+dynamic-093-133-045-040.93.133.pool.telefonica.de 0 1 20434 
+129.253.199.178.dynamic.wline.res.cust.swisscom.ch 0 1 20434 
+180.245.205.27 5 5 3066 20201125111259
+cpc106863-hari19-2-0-cust487.20-2.cable.virginm.net 0 1 20434 
+144.126.192.177 0 6 122604 
+1011.futoka.jp 1 1 102 20201126184021
+ec2-54-163-216-30.compute-1.amazonaws.com 0 1 20434 
+193.187.235.17 0 1 20434 
+194-166-62-14.hdsl.highway.telekom.at 0 1 20434 
+ip5f5bd3af.dynamic.kabel-deutschland.de 0 1 20434 
+089144203169.atnat0012.highway.a1.net 0 1 20434 
+snipster22.go.mail.ru 2 4 818895 20201122042638
+193-83-56-188.adsl.highway.telekom.at 0 1 20434 
+196-156-73-109.static.grazkom.at 0 1 20434 
+49.225.197.178.dynamic.wless.zhbmb00p-cgnat.res.cust.swisscom.ch 0 1 20434 
+195-154-182-72.rev.poneytelecom.eu 6 6 3066 20201124065307
+046125034170.public.t-mobile.at 0 1 20434 
+ams01.tor-exit.artikel10.org 0 1 290121 
+proxy1.cnuv.de 0 1 20434 
+45.8.134.214 1 1 8612 20201126044411
+213142096157.public.telering.at 0 2 40868 
+125.111.215.92 2 2 20001 20201130152854
+p548dd6e6.dip0.t-ipconnect.de 0 1 20434 
+178.165.130.239.wireless.dyn.drei.com 0 1 20434 
+ec2-52-203-84-190.compute-1.amazonaws.com 3 3 0 20201126213455
+213.33.61.94 0 1 20434 
+ec2-3-81-55-105.compute-1.amazonaws.com 2 2 0 20201126022747
+212095005231.public.telering.at 0 1 20434 
+p5dc4b147.dip0.t-ipconnect.de 0 1 20434 
+ns3133399.ip-51-75-146.eu 7 7 193871 20201128013307
+ec2-54-174-206-160.compute-1.amazonaws.com 4 4 0 20201128194306
+p5b0a435c.dip0.t-ipconnect.de 0 1 20434 
+p54a330d1.dip0.t-ipconnect.de 0 1 20434 
+google-proxy-66-102-8-91.google.com 0 3 61302 
+192.71.44.44 1 1 0 20201128144054
+ec2-52-59-230-63.eu-central-1.compute.amazonaws.com 0 18 367812 
+45.73.171.115 1 1 0 20201126080424
+019-106-244-077.ip-addr.inexio.net 0 1 20434 
+p2e547c90.dip0.t-ipconnect.de 0 1 20434 
+ec2-18-209-36-241.compute-1.amazonaws.com 3 3 0 20201130112124
+p50814ebc.dip0.t-ipconnect.de 0 1 20434 
+ec2-54-164-139-28.compute-1.amazonaws.com 5 5 0 20201130224317
+39.104.207.247 0 2 7357 
+80-110-113-232.cgn.dynamic.surfer.at 0 2 40868 
+i5e86232e.versanet.de 0 1 20434 
+host.veritexapp.com 4 4 7337 20201121015213
+algrothendieck.nos-oignons.net 0 1 142981 
+p54ac78e1.dip0.t-ipconnect.de 0 1 20434 
+xdsl-188-154-40-101.adslplus.ch 0 1 20434 
+20.185.193.185 6 6 3066 20201125082037
+snipster28.go.mail.ru 0 2 388619 
+ec2-52-90-243-150.compute-1.amazonaws.com 5 5 0 20201128182306
+193-81-67-206.hdsl.highway.telekom.at 0 1 20434 
+93.93.246.248 34 34 159726 20201121090417
+ipservice-092-209-149-151.092.209.pools.vodafone-ip.de 0 1 20434 
+xdsl-78-35-225-26.nc.de 0 1 20434 
+dslb-002-206-198-122.002.206.pools.vodafone-ip.de 0 1 20434 
+cable-78-34-44-104.nc.de 0 1 20434 
+83.97.2ca9.ip4.static.sl-reverse.com 0 1 20434 
+213-240-76-121.adsl.highway.telekom.at 0 1 20434 
+80-110-126-146.cgn.dynamic.surfer.at 0 1 20434 
+178.115.128.121.wireless.dyn.drei.com 0 1 20434 
+109.73.25.206 0 1 20434 
+178.188.10.186 0 1 20434 
+5-80-48-194.static.grazkom.at 0 3 40868 
+80-110-116-62.cgn.dynamic.surfer.at 0 1 20434 
+80-110-117-247.cgn.dynamic.surfer.at 0 1 20434 
+vps-8e8f2dd8.vps.ovh.net 0 1 54930 
+p4fda62b8.dip0.t-ipconnect.de 2 12 305266 20201122014029
+ec2-174-129-140-244.compute-1.amazonaws.com 2 2 0 20201129015834
+77.119.130.128.wireless.dyn.drei.com 0 1 20434 
+80-110-229-27.dsl.dynamic.surfer.at 0 1 20434 
+77.111.247.168 0 1 20434 
+ec2-3-85-106-89.compute-1.amazonaws.com 5 5 0 20201130141904
+p579bddf5.dip0.t-ipconnect.de 0 1 20434 
+ec2-54-84-181-78.compute-1.amazonaws.com 5 5 0 20201128123527
+46-118-231-28.broadband.kyivstar.net 1 1 27252 20201123004711
+225.182.202.62.dynamic.cgnat.res.cust.swisscom.ch 0 1 20434 
+190-2-132-155.hosted-by-worldstream.net 10 10 140581 20201124203247
+089144213161.atnat0022.highway.a1.net 0 1 20434 
+ip-95-223-57-1.hsi16.unitymediagroup.de 0 1 20434 
+p54a9c642.dip0.t-ipconnect.de 0 1 20434 
+91.141.3.68.wireless.dyn.drei.com 0 1 20434 
+ec2-3-236-218-182.compute-1.amazonaws.com 2 2 0 20201125174301
+80-110-96-55.cgn.dynamic.surfer.at 0 1 20434 
+hsi-kbw-095-208-250-174.hsi5.kabel-badenwuerttemberg.de 0 1 20434 
+217-149-160-224.nat.highway.telekom.at 0 1 20434 
+194-166-208-81.hdsl.highway.telekom.at 0 1 20434 
+dynamic-095-112-208-205.95.112.pool.telefonica.de 0 1 20434 
+91.141.2.182.wireless.dyn.drei.com 0 1 20434 
+h082218150141.host.wavenet.at 0 1 20434 
+ec2-54-145-194-30.compute-1.amazonaws.com 6 6 0 20201128160237
+194.24.158.201.wireless.dyn.drei.com 0 2 40868 
+ec2-54-193-196-126.us-west-1.compute.amazonaws.com 0 1 20434 
+h195202155195.fix.cm.kabsi.at 0 1 20434 
+62-46-154-42.adsl.highway.telekom.at 0 2 20434 
+uznay.torandonso.com 6 8 74824 20201122150722
+hsi-kbw-078-043-049-055.hsi4.kabel-badenwuerttemberg.de 0 1 20434 
+ec2-3-81-131-34.compute-1.amazonaws.com 2 2 0 20201126073534
+host-109-174-19-134.bb-nsk.sib.mts.ru 1 1 0 20201130141049
+194.40.145.20 0 1 20434 
+80-110-116-216.cgn.dynamic.surfer.at 0 1 20434 
+91.141.1.34.wireless.dyn.drei.com 0 2 40868 
+cgn-213-196-213-190.nc.de 0 1 20434 
+46.128.245.133.dynamic.cablesurf.de 0 1 20434 
+178.115.128.91.wireless.dyn.drei.com 0 1 20434 
+217-149-160-45.nat.highway.telekom.at 0 1 20434 
+p5b316802.dip0.t-ipconnect.de 0 1 20434 
+p5482a902.dip0.t-ipconnect.de 0 1 20434 
+p548c7c83.dip0.t-ipconnect.de 0 1 20434 
+103.50.168.249 7 7 3066 20201122033107
+fp276fd084.tkyc005.ap.nuro.jp 2 2 10021 20201128003336
+194-96-239-203.adsl.highway.telekom.at 0 1 20434 
+80-110-116-120.cgn.dynamic.surfer.at 0 1 20434 
+193.142.146.202 1 1 29542 20201121191006
+p579c0210.dip0.t-ipconnect.de 0 1 20434 
+243.177.0.85.dynamic.wline.res.cust.swisscom.ch 0 1 20434 
+217-149-160-160.nat.highway.telekom.at 0 1 20434 
+103.98.149.144 4 4 17428 20201128055738
+45.154.121.84 1 1 0 20201130080318
+80.123.190.74 0 1 20434 
+hsi-kbw-46-223-162-65.hsi.kabel-badenwuerttemberg.de 0 1 20434 
+82.117.26.128 0 1 20434 
+mx.comstage.net 0 1 424128 
+80-110-107-220.cgn.dynamic.surfer.at 0 1 20434 
+87-243-155-100.ainet.at 0 1 20434 
+dyndsl-095-033-059-158.ewe-ip-backbone.de 0 1 20434 
+static.91.69.119.168.clients.your-server.de 1 1 33406 20201128155231
+ec2-35-176-137-173.eu-west-2.compute.amazonaws.com 0 6 14694 
+p57962e9a.dip0.t-ipconnect.de 0 2 40868 
+mail.global-labour.net 1 1 27249 20201126125002
+217.138.220.172 0 1 20434 
+84-115-178-130.cable.dynamic.surfer.at 0 1 20434 
+pd9fb79a6.dip0.t-ipconnect.de 0 1 20434 
+p5dde42d0.dip0.t-ipconnect.de 0 1 20434 
+178.112.194.245.wireless.dyn.drei.com 0 1 20434 
+p54b569f4.dip0.t-ipconnect.de 0 1 20434 
+dynamic-089-014-255-123.89.14.pool.telefonica.de 0 1 20434 
+dynamic-077-013-154-067.77.13.pool.telefonica.de 0 1 20434 
+80-110-116-39.cgn.dynamic.surfer.at 0 1 20434 
+144.191.75.34.bc.googleusercontent.com 3 10 94764 20201122140203
+ip5f5af231.dynamic.kabel-deutschland.de 0 1 20434 
+194-118-34-53.adsl.highway.telekom.at 0 1 20434 
+p5b225e06.dip0.t-ipconnect.de 0 1 20434 
+67.227.110.44.rdns.colocationamerica.com 1 1 50482 20201128080305
+80-110-120-16.cgn.dynamic.surfer.at 0 1 20434 
+80-110-124-215.cgn.dynamic.surfer.at 0 1 20434 
+213162073248.public.t-mobile.at 0 1 20434 
+192-164-135-122.hdsl.highway.telekom.at 0 1 20434 
+ec2-54-92-183-228.compute-1.amazonaws.com 3 3 0 20201128222959
+93-82-78-217.adsl.highway.telekom.at 0 1 20434 
+mixsumo.org 12 17 51414 20201130135920
+dslb-088-064-222-096.088.064.pools.vodafone-ip.de 0 1 20434 
+ultrablockparty.com 0 1 27219 
+194-166-160-40.adsl.highway.telekom.at 0 1 20434 
+80-110-122-127.cgn.dynamic.surfer.at 0 1 20434 
+ec2-54-82-67-88.compute-1.amazonaws.com 0 1 20434 
+213-47-35-35.cable.dynamic.surfer.at 0 1 20434 
+87.122.25.36 0 1 20434 
+li296-70.members.linode.com 1 1 10012 20201120225249
+dynamic-095-116-100-208.95.116.pool.telefonica.de 0 1 20434 
+196.245.219.122 3 3 50482 20201124153102
+dynamic-077-013-192-123.77.13.pool.telefonica.de 0 1 20434 
+ip5f5be3c6.dynamic.kabel-deutschland.de 0 1 20434 
+expresstech.dev 4 4 0 20201128004638
+089144208127.atnat0017.highway.a1.net 0 1 20434 
+85-127-199-54.dsl.dynamic.surfer.at 0 1 20434 
+85-127-48-36.dsl.dynamic.surfer.at 0 1 20434 
+185.220.101.204 0 1 54317 
+162.243.161.99 4 4 10003 20201125202147
+p4ff5a4e1.dip0.t-ipconnect.de 0 1 20434 
+86-45-170-79-dynamic.agg2.stn.blp-srl.eircom.net 0 1 20434 
+sigma.balmer.net.br 0 1 20434 
+p5b3ecef5.dip0.t-ipconnect.de 0 1 20434 
+80-110-113-90.cgn.dynamic.surfer.at 0 1 20434 
+ip-109-40-1-14.web.vodafone.de 0 2 40868 
+x4db369e5.dyn.telefonica.de 0 1 20434 
+161.35.229.228 1 1 0 20201124031602
+91.227.230.2.xinon.at 0 1 20434 
+62-46-229-112.adsl.highway.telekom.at 0 1 20434 
+unn-89-187-168-167.cdn77.com 7 7 193871 20201127123309
+mail.rkk-stella.com 4 4 137245 20201127070401
+outbound1.rrz.co.at 0 1 20434 
+im-172-28.mynet.at 0 1 20434 
+p54b7fe59.dip0.t-ipconnect.de 0 1 20434 
+ltea-178-014-013-199.pools.arcor-ip.net 0 2 40868 
+ec2-3-87-18-119.compute-1.amazonaws.com 4 4 0 20201130105050
+ec2-54-152-71-91.compute-1.amazonaws.com 0 1 59356 
+85.248.227.165 0 1 424128 
+194-166-159-148.hdsl.highway.telekom.at 0 1 20434 
+77.116.37.145.wireless.dyn.drei.com 0 1 20434 
+p5dc5d942.dip0.t-ipconnect.de 0 1 20434 
+185.220.101.146 0 1 34151 
+046124072110.public.t-mobile.at 3 34 451450 20201130114010
+23.100.232.233 0 11 224774 
+p57a12dc8.dip0.t-ipconnect.de 0 1 20434 
+lfbn-str-1-471-135.w90-126.abo.wanadoo.fr 0 1 20434 
+ns552097.ip-142-44-139.net 1 1 0 20201121003914
+p57b8af55.dip0.t-ipconnect.de 0 1 20434 
+ip-50-62-30-145.ip.secureserver.net 2 2 27249 20201126125000
+vds-626988.hosted-by-itldc.com 3 3 0 20201130134629
+52.177.121.220 2 2 7359 20201125015921
+a81-14-187-154.net-htp.de 0 1 20434 
+31.132.220.2 10 10 328065 20201121080347
+bgo81.neoplus.adsl.tpnet.pl 2 2 0 20201128135012
+62-99-245-62.static.upcbusiness.at 0 1 20434 
+129.226.49.27 2 2 50483 20201128050244
+213-147-166-194.nat.highway.webapn.at 0 1 20434 
+ip-88-153-110-50.hsi04.unitymediagroup.de 0 1 20434 
+p5496c935.dip0.t-ipconnect.de 0 1 20434 
+tor-exit-relay-7.anonymizing-proxy.digitalcourage.de 0 1 175685 
+vps-45ff0b03.vps.ovh.net 0 1 387008 
+adsl-84-226-229-236.adslplus.ch 0 1 20434 
+p4fdf2dfd.dip0.t-ipconnect.de 0 1 20434 
+212-124-152-244.adsl.highway.telekom.at 0 1 20434 
+80-110-96-231.cgn.dynamic.surfer.at 0 2 40868 
+62-47-48-65.adsl.highway.telekom.at 0 1 20434 
+p4ff49f75.dip0.t-ipconnect.de 0 1 20434 
+p4fc31ad6.dip0.t-ipconnect.de 0 1 20434 
+ec2-54-85-66-151.compute-1.amazonaws.com 2 2 0 20201127140907
+ec2-3-87-120-48.compute-1.amazonaws.com 3 3 0 20201126031524
+217-149-166-115.nat.highway.telekom.at 0 1 20434 
+91-118-127-107.static.upcbusiness.at 0 2 40868 
+ec2-3-81-97-197.compute-1.amazonaws.com 7 7 0 20201130105437
+80-110-126-199.cgn.dynamic.surfer.at 0 1 20434 
+p2e52942e.dip0.t-ipconnect.de 0 1 20434 
+vps-8aac3869.vps.ovh.net 0 2 567496 
+203.137.61.188.dynamic.wline.res.cust.swisscom.ch 0 1 20434 
+91.141.2.44.wireless.dyn.drei.com 0 1 20434 
+192.71.225.127 1 2 541 20201130222840
+5.171.73.32 0 1 20434 
+85-127-224-254.dsl.dynamic.surfer.at 0 1 20434 
+ec2-3-86-64-43.compute-1.amazonaws.com 4 4 0 20201128193122
+77.119.130.120.wireless.dyn.drei.com 0 1 20434 
+178.115.130.30.wireless.dyn.drei.com 0 1 20434 
+ec2-18-141-218-195.ap-southeast-1.compute.amazonaws.com 4 4 14695 20201130221538
+ec2-34-209-76-166.us-west-2.compute.amazonaws.com 3 3 50514 20201127001245
+213-225-6-185.nat.highway.a1.net 0 1 20434 
+37-233.izhnt.ru 1 1 0 20201122020654
+crabtree.dreamhost.com 1 1 10008 20201126071107
+ec2-54-165-207-78.compute-1.amazonaws.com 4 4 0 20201125092737
+p54b4e6e9.dip0.t-ipconnect.de 0 1 20434 
+p57b1ee96.dip0.t-ipconnect.de 0 1 20434 
+178-191-202-165.adsl.highway.telekom.at 0 1 20434 
+p54b84a1f.dip0.t-ipconnect.de 0 1 20434 
+p5dc65cc3.dip0.t-ipconnect.de 0 1 20434 
+p57b0d4dd.dip0.t-ipconnect.de 0 1 20434 
+mail.henkesasswolf.de 0 1 20434 
+91.141.3.231.wireless.dyn.drei.com 0 1 20434 
+p50972d8b.dip0.t-ipconnect.de 0 1 20434 
+52.186.142.219 1 1 0 20201126142907
+ec2-54-162-180-93.compute-1.amazonaws.com 1 1 0 20201128094321
+77.119.128.97.wireless.dyn.drei.com 0 1 20434 
+p4fd15792.dip0.t-ipconnect.de 0 1 20434 
+80-110-97-38.cgn.dynamic.surfer.at 0 2 40868 
+217.19.35.174 0 3 20434 
+80-110-119-173.cgn.dynamic.surfer.at 4 26 4693336 20201128212210
+242.142.107.92.dynamic.wline.res.cust.swisscom.ch 0 1 20434 
+ip5f5af5e0.dynamic.kabel-deutschland.de 0 1 20434 
+217-149-175-92.nat.highway.telekom.at 0 1 20434 
+176-31-182-56.serverhub.ru 0 8 36770 
+103.72.73.236 4 4 54468 20201121151759
+ec2-52-91-31-146.compute-1.amazonaws.com 1 1 0 20201124073218
+213.55.225.132 0 1 20434 
+unn-195-181-161-229.datapacket.com 2 2 0 20201120211427
+clnet-p091-009.ikbnet.co.at 0 1 20434 
+99-10-72-10.lightspeed.irvnca.sbcglobal.net 0 1 20434 
+178-190-249-106.hdsl.highway.telekom.at 0 2 40868 
+2-105-67-43-dynamic.dk.customer.tdc.net 0 1 20434 
+ec2-35-173-204-245.compute-1.amazonaws.com 4 4 0 20201130093706
+dslb-084-059-119-187.084.059.pools.vodafone-ip.de 0 1 20434 
+13.90.22.38 32 32 201672 20201126221853
+31-10-146-34.cgn.dynamic.upc.ch 0 1 20434 
+178.115.226.141.static.drei.at 0 3 20434 
+213162073077.public.t-mobile.at 0 2 40868 
+dynamic-002-243-138-034.2.243.pool.telefonica.de 0 1 20434 
+77-59-153-23.dclient.hispeed.ch 0 1 20434 
+089144221217.atnat0030.highway.webapn.at 0 1 20434 
+dedic1351.hidehost.net 8 8 137275 20201127215530
+88-117-6-136.adsl.highway.telekom.at 0 1 20434 
+80-110-110-100.cgn.dynamic.surfer.at 0 3 61302 
+ec2-18-205-238-57.compute-1.amazonaws.com 1 1 0 20201130105900
+89-24-154-53.customers.tmcz.cz 0 1 20434 
+p5de5b568.dip0.t-ipconnect.de 0 1 20434 
+62-46-21-100.adsl.highway.telekom.at 0 1 20434 
+77.119.131.172.wireless.dyn.drei.com 0 1 20434 
+ec2-54-175-78-152.compute-1.amazonaws.com 2 2 0 20201126140037
+p5b38bcc2.dip0.t-ipconnect.de 0 1 20434 
+178.115.129.49.wireless.dyn.drei.com 13 44 7798027 20201125220343
+80-110-125-75.cgn.dynamic.surfer.at 0 1 20434 
+209.73.128.210 5 5 137275 20201130141055
+. 2 2 0 20201130071243
+ec2-3-81-200-105.compute-1.amazonaws.com 1 1 0 20201127010906
+cgn11.rhoennet.net 0 3 61302 
+ec2-3-89-72-206.compute-1.amazonaws.com 1 1 9999 20201126115708
+117.221.119.36 2 2 50483 20201128210242
+213-225-1-11.nat.highway.a1.net 0 1 20434 
+p5b2156d7.dip0.t-ipconnect.de 0 1 20434 
+ec2-44-235-74-233.us-west-2.compute.amazonaws.com 0 1 20434 
+84-247-12-136.colo.transip.net 2 2 17337 20201126012804
+213162073116.public.t-mobile.at 0 1 20434 
+105.104.100.156 2 2 0 20201122143529
+ip5f5ac023.dynamic.kabel-deutschland.de 0 1 20434 
+209.99.173.48 3 3 28758 20201126173950
+business-78-139-57-248.business.broadband.hu 0 1 20434 
+178-191-44-1.adsl.highway.telekom.at 0 1 20434 
+rate-limited-proxy-66-249-92-207.google.com 1 1 7212 20201128111651
+213-225-3-20.nat.highway.a1.net 0 1 20434 
+sw2-beta-mail.dwelle.de 0 4 81736 
+lfbn-idf1-1-871-88.w86-245.abo.wanadoo.fr 12 12 6132 20201125001920
+17-12-236.cgnat.fonira.net 0 1 20434 
+ec2-18-193-84-68.eu-central-1.compute.amazonaws.com 3 3 1045 20201121141147
+vds-653399.hosted-by-itldc.com 0 1 143368 
+046125250082.public.t-mobile.at 0 2 40868 
+ip5f5bf442.dynamic.kabel-deutschland.de 0 1 20434 
+20.190.63.54 2 2 0 20201121063632
+20-8-237-85.static.grazkom.at 0 1 20434 
+aftr-37-201-168-198.unity-media.net 0 1 20434 
+pd9ecd5ac.dip0.t-ipconnect.de 0 1 20434 
+ip2504e738.dynamic.kabel-deutschland.de 0 1 20434 
+77.118.215.36.wireless.dyn.drei.com 0 1 20434 
+178.165.130.3.wireless.dyn.drei.com 0 1 20434 
+80-110-97-75.cgn.dynamic.surfer.at 0 1 20434 
+178.171.60.111 1 1 10000 20201124171604
+ec2-34-229-223-205.compute-1.amazonaws.com 5 5 0 20201126062509
+dynamic-002-243-093-145.2.243.pool.telefonica.de 0 1 20434 
+ec2-35-172-115-29.compute-1.amazonaws.com 1 1 0 20201124055050
+213162068238.public.t-mobile.at 0 2 40868 
+84-115-53-223.cable.dynamic.surfer.at 0 1 20434 
+tmo-081-232.customers.d1-online.com 0 1 20434 
+145.46.129.9 0 1 20434 
+185-220-102-245.torservers.net 0 1 96128 
+62-210-204-182.rev.poneytelecom.eu 10 10 6132 20201124234421
+217-149-173-71.nat.highway.telekom.at 0 1 20434 
+212-197-182-250.adsl.highway.telekom.at 0 1 20434 
+62.153.77.6 6 41 6692066 20201130094657
+80.122.22.174 0 1 20434 
+160.176.157.59 87 91 289378 20201126231925
+p5dd5608a.dip0.t-ipconnect.de 0 1 20434 
+p579f9827.dip0.t-ipconnect.de 0 1 20434 
+91-115-191-30.adsl.highway.telekom.at 0 1 20434 
+93.93.246.76 6 6 50674 20201121180246
+089144195023.atnat0004.highway.a1.net 0 1 20434 
+ec2-54-197-210-225.compute-1.amazonaws.com 7 7 0 20201128161931
+p5dd9ab2a.dip0.t-ipconnect.de 0 1 20434 
+194-96-36-133.hdsl.highway.telekom.at 0 1 20434 
+126.43.71.34.bc.googleusercontent.com 0 1 20434 
+dynamic-046-114-006-003.46.114.pool.telefonica.de 0 1 20434 
+172.83.43.137 3 3 1045 20201124105551
+194.140.112.57 0 1 20434 
+business-90-187-79-149.pool2.vodafone-ip.de 0 1 20434 
+p5784d7e1.dip0.t-ipconnect.de 0 1 20434 
+197.27.200.131 96 100 341159 20201126001157
+ec2-54-166-155-222.compute-1.amazonaws.com 2 2 0 20201128081240
+192.71.38.71 2 2 10022 20201130222844
+80-110-116-217.cgn.dynamic.surfer.at 0 1 20434 
+box5894.bluehost.com 1 1 27218 20201128182812
+37-31-237-85.static.grazkom.at 0 1 20434 
+p5080cb8b.dip0.t-ipconnect.de 0 1 20434 
+ip-185-143-182-086.innonet.at 0 2 40868 
+ip-84-118-52-13.unity-media.net 0 1 20434 
+vps-076a4249.vps.ovh.net 0 1 266901 
+ec2-3-137-209-186.us-east-2.compute.amazonaws.com 78 82 289679 20201130111641
+237.219.79.83.dynamic.wline.res.cust.swisscom.ch 0 1 20434 
+184.174.58.67 1 1 0 20201124080444
+ip1f10fa25.dynamic.kabel-deutschland.de 0 1 20434 
+217.138.194.125 5 5 164017 20201128070350
+80-110-110-247.cgn.dynamic.surfer.at 0 1 20434 
+x59cc9ad4.dyn.telefonica.de 0 1 20434 
+213.55.225.19 0 1 20434 
+37.9.13.156 5 5 18585 20201126140225
+158.46.129.254 1 1 50482 20201127080403
+ec2-34-229-242-2.compute-1.amazonaws.com 3 3 0 20201126132830
+ip-84-119-210-21.unity-media.net 0 1 20434 
+ip4d16fe55.dynamic.kabel-deutschland.de 0 1 20434 
+39.101.1.61 7 9 22072 20201126084932
+cpe90-146-134-207.liwest.at 0 1 20434 
+ec2-54-175-233-243.compute-1.amazonaws.com 4 4 0 20201128093917
+107.179.71.100 0 1 20434 
+80.82.68.173 1 1 0 20201125181545
+p3nlhg1374.shr.prod.phx3.secureserver.net 1 1 48 20201126125006
+62.220.2.102 0 1 20434 
+217-149-165-116.nat.highway.telekom.at 0 1 20434 
+outbound2.rrz.co.at 0 1 20434 
+hsi-kbw-085-216-008-113.hsi.kabelbw.de 0 2 40868 
+cable-86-56-18-99.cust.telecolumbus.net 0 1 20434 
+adsl2p163.access.maltanet.net 0 1 20434 
+213162073133.public.t-mobile.at 0 1 20434 
+tor3e3.digitale-gesellschaft.ch 0 1 249920 
+196.112.65.60 78 82 289661 20201122003124
+ec2-34-219-248-81.us-west-2.compute.amazonaws.com 0 1 20434 
+089144204214.atnat0013.highway.webapn.at 0 2 40868 
+h081217175201.dyn.cm.kabsi.at 0 1 20434 
+77.118.184.135.wireless.dyn.drei.com 0 1 20434 
+tmo-101-71.customers.d1-online.com 0 1 20434 
+ec2-18-222-185-185.us-east-2.compute.amazonaws.com 3 3 10000 20201129003552
+194-118-145-49.hdsl.highway.telekom.at 0 1 20434 
+usp-gw-vdsl.salus-lsa.de 0 1 20434 
+87.251.74.204 1 1 0 20201121082025
+88.116.29.10 0 1 20434 
+tor-exit-8.zbau.f3netze.de 0 1 145220 
+adsl-178-38-195-56.adslplus.ch 0 1 20434 
+v372236.hosted-by-vdsina.ru 5 5 164017 20201128022647
+94.31.101.129 0 1 20434 
+ec2-54-144-113-112.compute-1.amazonaws.com 1 1 0 20201125121437
+93-75-38-205.lut.volia.net 2 2 0 20201130163459
+dsde1032-14333.fornex.org 2 2 0 20201130083055
+cloudserver027647.home.pl 1 1 27218 20201122131311
+185.34.91.36 0 1 20434 
+213-225-11-76.nat.highway.a1.net 0 1 20434 
+089144219247.atnat0028.highway.a1.net 0 1 20434 
+google-proxy-66-249-84-182.google.com 0 1 20434 
+127.ip-147-135-211.eu 1 1 62 20201122163441
+213162073005.public.t-mobile.at 0 2 40868 
+aftr-62-216-202-209.dynamic.mnet-online.de 0 1 20434 
+p54a2ef9d.dip0.t-ipconnect.de 0 1 20434 
+a41-de-ffm-rz-rt0x.all-for-one.com 0 1 20434 
+x59cc8bfd.dyn.telefonica.de 0 1 20434 
+ec2-54-167-232-129.compute-1.amazonaws.com 2 2 0 20201128014742
+192.71.30.89 0 1 7358 
+li1198-151.members.linode.com 98 102 5487 20201122145204
+tor-exit-14.zbau.f3netze.de 0 1 70518 
+91.141.2.40.wireless.dyn.drei.com 0 1 20434 
+mail.doccards.com 9 33 793561 20201124135439
+217-149-161-55.nat.highway.telekom.at 0 1 20434 
+178.115.128.252.wireless.dyn.drei.com 0 1 20434 
+85-127-28-206.dsl.dynamic.surfer.at 0 1 20434 
+178.165.128.33.wireless.dyn.drei.com 0 1 20434 
+77.119.129.226.wireless.dyn.drei.com 0 1 20434 
+046125250025.public.t-mobile.at 0 1 20434 
+80-110-96-168.cgn.dynamic.surfer.at 0 1 20434 
+80.122.233.170 0 1 20434 
+p57a82ee1.dip0.t-ipconnect.de 0 1 20434 
+ipbcc2358b.dynamic.kabel-deutschland.de 0 1 20434 
+62-210-84-82.rev.poneytelecom.eu 6 6 3066 20201125131642
+159.65.46.82 22 31 843286 20201122111340
+103.113.154.144 52 52 191318 20201124073810
+ip-109-41-129-218.web.vodafone.de 0 1 20434 
+p4ffc3aaf.dip0.t-ipconnect.de 0 1 20434 
+hsi-kbw-046-005-068-154.hsi8.kabel-badenwuerttemberg.de 0 1 20434 
+server.estudioelephants.com 1 1 0 20201126125025
+91.141.1.202.wireless.dyn.drei.com 0 1 20434 
+80-110-117-76.cgn.dynamic.surfer.at 0 1 20434 
+104.211.73.119 1 1 58 20201127145516
+p5dd88703.dip0.t-ipconnect.de 0 1 20434 
+196.242.114.74 3 3 50513 20201126063935
+pd9eed4e6.dip0.t-ipconnect.de 0 1 20434 
+tor69.quintex.com 2 2 0 20201130195752
+45.125.245.25 1 1 50513 20201125033005
+217-149-168-186.nat.highway.telekom.at 0 1 20434 
+17-13-171.cgnat.fonira.net 0 1 20434 
+ec2-18-234-91-164.compute-1.amazonaws.com 0 1 59356 
+87.190.4.154 0 1 20434 
+46.19.141.83 0 1 640834 
+veyembalajess.knet.es 0 1 20434 
+77.119.129.115.wireless.dyn.drei.com 0 1 20434 
+217-149-165-217.nat.highway.telekom.at 0 1 20434 
+85-127-227-234.dsl.dynamic.surfer.at 0 1 20434 
+213-225-36-234.nat.highway.a1.net 0 1 20434 
+212-17-82-210.static.upcbusiness.at 0 1 20434 
+13.68.158.218 2 2 0 20201126160315
+194.230.159.213 0 1 20434 
+p4ff72f9c.dip0.t-ipconnect.de 0 1 20434 
+customer-zita-52-129.megared.net.mx 3 3 8786 20201126040832
+p57ab74d5.dip0.t-ipconnect.de 0 1 20434 
+p5ddf904a.dip0.t-ipconnect.de 0 1 20434 
+5073e370.static.ziggozakelijk.nl 0 1 20434 
+77-58-84-9.dclient.hispeed.ch 0 1 20434 
+217-149-163-117.nat.highway.telekom.at 0 1 20434 
+39.98.254.147 4 26 4176742 20201125085650
+staticdsl-213-168-205-230.ewe-ip-backbone.de 0 1 20434 
+91-118-24-63.static.upcbusiness.at 0 1 20434 
+110.229.218.64 3 3 10002 20201124153918
+91.141.2.18.wireless.dyn.drei.com 0 1 20434 
+pc19f7fdb.dip0.t-ipconnect.de 0 1 20434 
+ec2-3-92-162-53.compute-1.amazonaws.com 8 8 0 20201128095056
+80-110-114-86.cgn.dynamic.surfer.at 0 1 20434 
+77.119.243.136.static.drei.at 0 1 20434 
+ip5f59ea37.dynamic.kabel-deutschland.de 0 1 20434 
+ec2-3-236-70-138.compute-1.amazonaws.com 5 5 3066 20201122115408
+185.247.224.14 0 1 266901 
+ip5f58b8b3.dynamic.kabel-deutschland.de 0 1 20434 
+p54a47f30.dip0.t-ipconnect.de 0 1 20434 
+hsi-kbw-46-223-149-47.hsi.kabel-badenwuerttemberg.de 0 1 20434 
+089144212003.atnat0021.highway.a1.net 0 1 20434 
+213162073162.public.t-mobile.at 0 1 20434 
+37-115-251-232.broadband.kyivstar.net 1 1 27218 20201122080835
+91.241.19.182 2 2 50513 20201130220300
+178.115.131.61.wireless.dyn.drei.com 0 1 20434 
+51.141.37.32 1 1 0 20201122021650
+dyndsl-031-150-158-234.ewe-ip-backbone.de 0 1 20434 
+dynamic-046-114-146-165.46.114.pool.telefonica.de 0 1 20434 
+p4ff79438.dip0.t-ipconnect.de 0 1 20434 
+p5df5aaa5.dip0.t-ipconnect.de 0 1 20434 
+google-proxy-66-249-83-196.google.com 0 4 81736 
+p4fec154b.dip0.t-ipconnect.de 0 1 20434 
+185.220.101.205 0 1 92696 
+ec2-3-122-53-98.eu-central-1.compute.amazonaws.com 3 3 1045 20201125005010
+188-23-212-35.adsl.highway.telekom.at 0 1 20434 
+089144206022.atnat0015.highway.bob.at 0 1 20434 
+ip239.ip-144-217-60.net 0 1 421885 
+dynamic-093-133-080-186.93.133.pool.telefonica.de 0 1 20434 
+123.56.127.50 0 1 7336 
+vpn-ssl-232-189.rz.uni-frankfurt.de 0 1 20434 
+ec2-3-80-241-177.compute-1.amazonaws.com 2 2 0 20201126194326
+213-47-42-162.cable.dynamic.surfer.at 0 2 40868 
+ec2-54-164-196-191.compute-1.amazonaws.com 5 5 0 20201130220933
+ec2-54-147-228-160.compute-1.amazonaws.com 4 4 0 20201127001911
+104.214.79.46 11 11 0 20201127034232
+192.71.23.211 2 2 0 20201130222843
+163.116.162.141 0 1 20434 
+62-116-41-183.adsl.highway.telekom.at 0 1 20434 
+217-149-160-92.nat.highway.telekom.at 0 1 20434 
+ipbcc1372b.dynamic.kabel-deutschland.de 0 1 20434 
+089144206117.atnat0015.highway.bob.at 0 1 20434 
+geri.enn.lu 0 1 424128 
+089144192062.atnat0001.highway.a1.net 0 1 20434 
+ip-178-203-249-132.hsi10.unitymediagroup.de 0 1 20434 
+98-9-191-90.dyn.estpak.ee 0 1 20434 
+212095006026.public.telering.at 0 1 20434 
+212-197-169-33.hdsl.highway.telekom.at 0 2 40868 
+p5487a96f.dip0.t-ipconnect.de 0 1 20434 
+45.173.1.56 1 1 102 20201121183314
+91-114-230-103.adsl.highway.telekom.at 0 1 20434 
+82.97.2ca9.ip4.static.sl-reverse.com 0 4 81736 
+107-173-141-163-host.colocrossing.com 1 1 0 20201127183409
+125.111.210.78 1 1 10000 20201126171128
+p5b2f3b0c.dip0.t-ipconnect.de 0 1 20434 
+x5271791d.dyn.telefonica.de 0 1 20434 
+vps1444.hidehost.net 2 2 0 20201123010632
+77.74.177.114 2 2 20001 20201126223525
+ec2-3-81-7-222.compute-1.amazonaws.com 4 4 0 20201129004351
+91.192.103.17 0 1 249920 
+178.115.128.175.wireless.dyn.drei.com 0 1 20434 
+195.80.151.30 0 1 81859 
+144.126.192.243 0 1 20434 
+206.123.139.233 10 10 328034 20201127164052
+fwdproxy-lla-021.fbsv.net 0 1 20434 
+055.196.idc.iprimus.net.au 1 1 247 20201127150723
+server8-ams1.internet-census.org 0 1 20434 
+80-110-101-129.cgn.dynamic.surfer.at 0 1 20434 
+80-110-99-46.cgn.dynamic.surfer.at 0 1 20434 
+p3e9bd860.dip0.t-ipconnect.de 0 1 20434 
+p5b3f512d.dip0.t-ipconnect.de 0 1 20434 
+ec2-52-90-242-178.compute-1.amazonaws.com 3 3 0 20201125061018
+dynamic-046-114-034-039.46.114.pool.telefonica.de 0 1 20434 
+91-113-54-119.adsl.highway.telekom.at 0 1 20434 
+sun.backspack.com 6 6 3066 20201126011318
+80-110-111-192.cgn.dynamic.surfer.at 5 37 7519346 20201130145524
+178.165.128.134.wireless.dyn.drei.com 0 1 20434 
+83.215.254.138 0 1 20434 
+188.130.129.177 1 1 10000 20201130121949
+31.12.59.82 0 1 445935 
+81.90.190.248 31 40 402720 20201121091417
+117.136.32.82 0 1 20434 
+mobiledyn-185-69-244-121.mrsn.at 0 1 20434 
+ec2-54-88-25-125.compute-1.amazonaws.com 5 5 0 20201127072021
+rs003826.root.server-hosting.expert 0 1 70518 
+91.192.103.43 0 1 92696 
+ns6143099.ip-51-77-142.eu 0 1 20434 
+87.123.206.112 0 1 20434 
+185.220.101.201 0 1 92696 
+dslb-084-059-000-160.084.059.pools.vodafone-ip.de 0 1 20434 
+ec2-3-90-236-84.compute-1.amazonaws.com 3 3 0 20201130095130
+p5b09814d.dip0.t-ipconnect.de 0 1 20434 
+217-149-161-242.nat.highway.telekom.at 0 1 20434 
+smartcar.websitewelcome.com 1 1 48 20201122161922
+078132080092.public.t-mobile.at 0 1 20434 
+91.132.139.118 0 1 20434 
+194-96-157-218.hdsl.highway.telekom.at 0 1 20434 
+193-83-120-88.hdsl.highway.telekom.at 0 1 20434 
+ec2-34-251-179-147.eu-west-1.compute.amazonaws.com 0 1 59356 
+83.216.194.64.net.netplanet.at 0 1 20434 
+80-110-113-151.cgn.dynamic.surfer.at 0 2 40868 
+217-149-165-98.nat.highway.telekom.at 0 2 40868 
+198-58-75-123.cyrusone.com 0 2 40868 
+181.215.121.227 1 1 0 20201124171603
+213162080107.public.t-mobile.at 0 1 20434 
+vps-7ade9f1e.vps.ovh.net 0 1 302532 
+217-149-162-36.nat.highway.telekom.at 0 1 20434 
+91.141.2.147.wireless.dyn.drei.com 0 1 20434 
+31.206.11.239 40 40 0 20201130190924
+212095008169.public.telering.at 0 1 20434 
+ec2-54-159-113-194.compute-1.amazonaws.com 6 6 0 20201130092334
+62-47-162-79.adsl.highway.telekom.at 0 1 20434 
+vds-638713.hosted-by-itldc.com 3 3 0 20201128100825
+lumumba.torservers.net 0 1 143368 
+80.229.197.178.dynamic.wless.zhbmb00p-cgnat.res.cust.swisscom.ch 0 1 20434 
+91.141.0.218.wireless.dyn.drei.com 0 1 20434 
+77.119.131.20.wireless.dyn.drei.com 0 1 20434 
+ec2-54-213-214-147.us-west-2.compute.amazonaws.com 2 2 50483 20201124044723
+138.ip-51-254-116.eu 1 1 102 20201122192600
+213162072186.public.t-mobile.at 0 1 20434 
+78.58.61.188.dynamic.wline.res.cust.swisscom.ch 0 1 20434 
+91.141.3.244.wireless.dyn.drei.com 0 1 20434 
+85-127-50-214.dsl.dynamic.surfer.at 0 1 20434 
+52.252.147.23 5 5 3066 20201130230543
+178-191-6-234.adsl.highway.telekom.at 0 1 20434 
+91-113-122-156.hdsl.highway.telekom.at 0 1 20434 
+80-110-103-106.cgn.dynamic.surfer.at 0 1 20434 
+ipbcc1ff8b.dynamic.kabel-deutschland.de 0 1 20434 
+ip5f5adcd2.dynamic.kabel-deutschland.de 0 1 20434 
+213-47-12-47.cable.dynamic.surfer.at 0 1 20434 
+45.143.107.215 1 1 0 20201122080348
+046125249009.public.t-mobile.at 0 1 20434 
+dynamic-093-133-122-068.93.133.pool.telefonica.de 0 1 20434 
+ec2-54-165-58-159.compute-1.amazonaws.com 5 5 0 20201130204300
+178.165.131.139.wireless.dyn.drei.com 0 1 20434 
+ec2-54-82-154-95.compute-1.amazonaws.com 2 2 0 20201127132457
+cpc78539-basf13-2-0-cust162.12-3.cable.virginm.net 0 1 20434 
+hsi-kbw-082-212-004-007.hsi.kabelbw.de 0 1 20434 
+server.ipinoymarketplace.com.ph 1 1 102 20201120225300
+88.117.214.70 0 1 20434 
+p57ab662e.dip0.t-ipconnect.de 0 1 20434 
+13.65.36.105 112 112 102192 20201126193215
+178-189-255-244.adsl.highway.telekom.at 0 1 20434 
+agila.websitewelcome.com 1 1 0 20201127145441
+230-151-73-109.static.grazkom.at 0 1 20434 
+linsrv-pebble.contactonlineltd.co.uk 1 1 36 20201122061030
+tor-exit-4.all.de 0 1 155525 
+089144193254.atnat0002.highway.a1.net 0 1 20434 
+192.71.2.171 0 1 0 
+37.120.152.106 10 10 164292 20201126214837
+089144198003.atnat0007.highway.a1.net 0 1 20434 
+178.165.128.252.wireless.dyn.drei.com 0 1 20434 
+188-136-9-33-ftth-kam-dyn.heliweb.de 0 1 20434 
+9-221-103-86.dynamic.dsl.tng.de 0 1 20434 
+cpe90-146-212-204.liwest.at 0 1 20434 
+216.218.141.227 0 1 20434 
+p5b2f34b0.dip0.t-ipconnect.de 0 1 20434 
+vm1549911.6ssd.had.wf 9 9 22050 20201122150023
+fj45.ru 2 2 0 20201127042517
+host-154.179.56.38-static.tedata.net 0 1 20434 
+cloud7044699.nitrado.cloud 4 4 3066 20201124192837
+p5b03285f.dip0.t-ipconnect.de 0 1 20434 
+213-47-47-253.cable.dynamic.surfer.at 0 1 20434 
+ec2-18-212-157-255.compute-1.amazonaws.com 4 4 0 20201130212646
+213162073058.public.t-mobile.at 0 1 20434 
+217-149-164-156.nat.highway.telekom.at 0 1 20434 
+193.110.182.12 0 1 20434 
+xdsl-87-78-248-198.nc.de 0 1 20434 
+80-110-125-6.cgn.dynamic.surfer.at 0 1 20434 
+91-115-255-177.adsl.highway.telekom.at 0 1 20434 
+178.165.131.150.wireless.dyn.drei.com 0 1 20434 
+noeku.at 0 1 20434 
+23.129.64.190 0 1 174608 
+ec2-3-90-145-182.compute-1.amazonaws.com 4 4 0 20201128020813
+62-210-203-108.rev.poneytelecom.eu 6 6 3066 20201124064015
+45-154-35-214.v4.as52042.net 0 1 446994 
+ec2-3-81-234-237.compute-1.amazonaws.com 4 4 0 20201128052725
+ip5f59d9d0.dynamic.kabel-deutschland.de 0 1 20434 
+ec2-54-71-79-172.us-west-2.compute.amazonaws.com 0 1 20434 
+80-110-116-32.cgn.dynamic.surfer.at 0 1 20434 
+ip4d14fe4c.dynamic.kabel-deutschland.de 0 1 20434 
+static.88-198-90-9.clients.your-server.de 1 1 28135 20201123012703
+85-90-148-213.hdsl.highway.telekom.at 0 1 20434 
+77.119.129.195.wireless.dyn.drei.com 0 1 20434 
+85-127-54-58.dsl.dynamic.surfer.at 0 1 20434 
+94.134.91.212 0 1 20434 
+p5b2eb9fe.dip0.t-ipconnect.de 0 1 20434 
+44.180.107.92.dynamic.wline.res.cust.swisscom.ch 0 1 20434 
+128.0.131.61 16 16 373239 20201126020530
+pool-176-226-184-88.is74.ru 5 5 187729 20201126020834
+200.189.104.133 1 1 74 20201127145542
+hsi-kbw-134-3-242-174.hsi14.kabel-badenwuerttemberg.de 0 1 20434 
+i59f7cf9b.versanet.de 0 1 20434 
+ec2-3-87-136-190.compute-1.amazonaws.com 1 1 0 20201125051445
+ns555166.ip-54-39-16.net 0 1 27249 
+194-118-116-170.hdsl.highway.telekom.at 0 1 20434 
+ec2-3-238-179-188.compute-1.amazonaws.com 3 3 10021 20201122081108
+ip1f11fb75.dynamic.kabel-deutschland.de 0 1 20434 
+178.165.128.55.wireless.dyn.drei.com 0 1 20434 
+x4dbe1997.dyn.telefonica.de 0 1 20434 
+188-163-109-153.broadband.kyivstar.net 22 22 549014 20201130210412
+213162073165.public.t-mobile.at 0 1 20434 
+google-proxy-66-102-8-90.google.com 0 5 102170 
+77.119.130.186.wireless.dyn.drei.com 0 1 728688 
+dyndsl-091-249-066-105.ewe-ip-backbone.de 0 1 20434 
+ip5f5bdb06.dynamic.kabel-deutschland.de 0 1 20434 
+ec2-3-15-169-178.us-east-2.compute.amazonaws.com 3 3 10002 20201124104334
+p5b10e9d2.dip0.t-ipconnect.de 0 1 20434 
+google-proxy-66-249-83-200.google.com 0 1 20434 
+ip96f9d6fc.ap.nuro.jp 2 2 10001 20201128003335
+mail2.e360zhoux.cc 0 1 155525 
+wholesomeserver.media.mit.edu 0 2 79219 
+h082218033037.host.wavenet.at 0 1 20434 
+ip4d15f823.dynamic.kabel-deutschland.de 0 1 20434 
+35.187.132.205 1 1 8531 20201128132350
+sh018.webhostingservices.com 2 2 0 20201125180808
+178.171.23.164 1 1 50482 20201126080426
+91-121-78-78.serverhub.ru 2 2 0 20201122105713
+static.32.204.46.78.clients.your-server.de 0 2 118712 
+41.200.8.31 2 2 0 20201125060442
+p4fcd8597.dip0.t-ipconnect.de 0 1 20434 
+195-34-158-53.static.upcbusiness.at 0 1 20434 
+ns530679.ip-149-56-24.net 1 1 36 20201126071110
+p5de6ca95.dip0.t-ipconnect.de 0 1 20434 
+p57949ec7.dip0.t-ipconnect.de 0 1 20434 
+msq-03-oeh.kages.at 0 1 20434 
+41.142.27.18 78 82 289656 20201124153623
+p5b2da394.dip0.t-ipconnect.de 0 1 20434 
+vps-b5f935e2.vps.ovh.net 0 1 49460 
+87.123.193.239 0 1 20434 
+212-186-180-206.static.upcbusiness.at 0 1 20434 
+ec2-34-227-97-43.compute-1.amazonaws.com 3 3 0 20201128040128
+212-197-183-244.adsl.highway.telekom.at 0 1 20434 
+ip5f5ae2c2.dynamic.kabel-deutschland.de 0 1 20434 
+45.115.224.130 2 2 0 20201122071549
+p57bb8909.dip0.t-ipconnect.de 0 1 20434 
+213-225-36-112.nat.highway.a1.net 0 1 20434 
+reserved-227122.rol.raiffeisen.net 0 1 20434 
+217-149-165-92.nat.highway.telekom.at 0 1 20434 
+200.105.206.35.bc.googleusercontent.com 1 1 0 20201122163332
+lsh1002.lsh.siteprotect.com 1 1 49 20201127145447
+p4fcd12d2.dip0.t-ipconnect.de 0 3 61302 
+178-190-46-222.adsl.highway.telekom.at 0 1 20434 
+80-110-110-106.cgn.dynamic.surfer.at 0 1 20434 
+4.34.194.178.dynamic.wline.res.cust.swisscom.ch 0 1 20434 
+45.87.212.55 2 2 0 20201122230713
+91-113-50-59.adsl.highway.telekom.at 0 1 20434 
+mobiledyn-185-69-244-125.mrsn.at 0 1 20434 
+31.220.40.163 0 1 92696 
+91.141.3.2.wireless.dyn.drei.com 0 1 20434 
+ec2-3-89-130-91.compute-1.amazonaws.com 7 7 0 20201130122115
+static.66.158.203.116.clients.your-server.de 1 1 0 20201125005217
+p4ff64807.dip0.t-ipconnect.de 0 1 20434 
+ec2-54-211-197-29.compute-1.amazonaws.com 5 5 0 20201128143932
+178.115.128.35.wireless.dyn.drei.com 0 1 20434 
+196.244.192.14 2 2 0 20201121040056
+cpe00fc8d4e3673-cm00fc8d4e3670.cpe.net.cable.rogers.com 0 1 20434 
+178.165.130.161.wireless.dyn.drei.com 0 1 20434 
+p5b3332b7.dip0.t-ipconnect.de 0 1 20434 
+224.148.155.104.bc.googleusercontent.com 28 28 72121 20201122115643
+ipb2196547.dynamic.kabel-deutschland.de 0 1 20434 
+85-90-141-96.hdsl.highway.telekom.at 0 1 20434 
+80-110-115-148.cgn.dynamic.surfer.at 0 1 20434 
+owa.hba.at 0 2 40868 
+194-166-177-105.hdsl.highway.telekom.at 0 1 20434 
+maleaim-rie.nationbug.com 2 2 0 20201126144132
+178.171.67.126 1 1 50482 20201122080349
+178-191-82-77.adsl.highway.telekom.at 0 1 20434 
+62-210-105-116.rev.poneytelecom.eu 1 1 26772 20201128190919
+dyndsl-095-033-221-083.ewe-ip-backbone.de 0 1 20434 
+149.224.234.132 0 1 20434 
+212095005197.public.telering.at 0 1 20434 
+83-215-102-225.stmi.dyn.salzburg-online.at 0 1 20434 
+193.112.248.186 4 4 100966 20201128123526
+089144192248.atnat0001.highway.a1.net 0 1 20434 
+tmo-081-178.customers.d1-online.com 0 1 20434 
+ip5f5bf3d6.dynamic.kabel-deutschland.de 0 1 20434 
+ec2-18-219-84-148.us-east-2.compute.amazonaws.com 2 2 0 20201127101554
+88.116.175.250 0 2 40868 
+178.115.128.92.wireless.dyn.drei.com 0 1 20434 
+n157.kyodonews.jp 0 1 20434 
+stablecurve.org 1 1 0 20201127023835
+93.115.0.77 2 2 0 20201126145657
+95.118.218.193.urdn.com.ua 0 1 59459 
+80-109-211-77.cable.dynamic.surfer.at 0 1 20434 
+fwdproxy-atn-018.fbsv.net 0 1 118 
+217-149-160-127.nat.highway.telekom.at 0 1 20434 
+ec2-3-90-223-104.compute-1.amazonaws.com 2 2 0 20201128150059
+x4db65da3.dyn.telefonica.de 0 1 20434 
+hsi-kbw-095-208-250-121.hsi5.kabel-badenwuerttemberg.de 0 1 20434 
+ec2-54-236-10-150.compute-1.amazonaws.com 5 5 0 20201128152700
+80-110-118-221.cgn.dynamic.surfer.at 0 1 20434 
+213162073063.public.t-mobile.at 0 1 20434 
+80-110-100-180.cgn.dynamic.surfer.at 0 1 20434 
+ec2-35-153-80-35.compute-1.amazonaws.com 3 3 0 20201129010927
+vps-06508e2c.vps.ovh.net 0 1 266901 
+ec2-54-175-70-11.compute-1.amazonaws.com 3 3 0 20201130095716
+ec2-107-21-21-64.compute-1.amazonaws.com 4 4 0 20201126041315
+p5dcc9723.dip0.t-ipconnect.de 0 1 20434 
+175.44.42.27 0 2 40868 
+62-46-171-226.adsl.highway.telekom.at 0 1 20434 
+111.231.205.120 6 6 30024 20201130123918
+xdsl-84-44-233-122.nc.de 0 1 20434 
+213-225-5-41.nat.highway.a1.net 0 2 40868 
+93.159.230.28 2 2 10000 20201126220823
+87.190.250.210 0 1 20434 
+185.213.155.169 0 1 155525 
+089144193023.atnat0002.highway.a1.net 0 1 20434 
+p5de5bc9f.dip0.t-ipconnect.de 0 1 20434 
+91-115-223-35.adsl.highway.telekom.at 0 1 20434 
+178.115.130.54.wireless.dyn.drei.com 0 1 20434 
+62-231-95-190.rdsnet.ro 2 2 50513 20201124213211
+n112118165064.netvigator.com 1 21 4090446 20201122041835
+ec2-3-236-160-109.compute-1.amazonaws.com 3 3 10021 20201120214356
+gator3110.hostgator.com 1 1 48 20201127113544
+194.35.233.55 2 2 0 20201127123654
+vps-03350344.vps.ovh.net 0 1 307408 
+p5b2af299.dip0.t-ipconnect.de 0 1 20434 
+39.99.54.47 0 4 14673 
+p5b2bb93d.dip0.t-ipconnect.de 0 1 20434 
+185.220.101.131 0 1 387008 
+dog-yellow-07b6806534147393.znlc.jp 1 1 0 20201128132205
+83-215-28-0.bruck.dyn.salzburg-online.at 0 1 20434 
+ec2-18-224-94-38.us-east-2.compute.amazonaws.com 2 2 0 20201124080712
+80.123.68.91 0 1 20434 
+89.56.116.85 0 1 20434 
+178-189-197-246.adsl.highway.telekom.at 0 1 20434 
+tmo-114-233.customers.d1-online.com 0 1 20434 
+089144194048.atnat0003.highway.a1.net 0 1 20434 
+ec2-54-145-246-127.compute-1.amazonaws.com 5 5 0 20201130234512
+5.253.18.169 3 3 8767 20201130225159
+aftr-37-201-225-45.unity-media.net 0 1 20434 
+ec2-35-175-207-115.compute-1.amazonaws.com 2 2 0 20201125130341
+85-127-21-194.dsl.dynamic.surfer.at 0 1 20434 
+178.171.64.74 1 1 0 20201127080403
+b2b-78-94-71-58.unitymedia.biz 0 1 20434 
+i59f52964.versanet.de 0 1 20434 
+pd958589e.dip0.t-ipconnect.de 0 1 20434 
+p57afb51b.dip0.t-ipconnect.de 0 1 20434 
+bbcs-175-226.cust.wingo.ch 0 1 20434 
+195-192-122-178.dyn.cablelink.at 0 1 20434 
+tor-exit-fr.ubermen.net 0 2 316361 
+175.44.42.183 1 1 10021 20201125220306
+46.128.237.145.dynamic.cablesurf.de 0 1 20434 
+vps-6edc50d8.vps.ovh.net 0 1 20434 
+80-110-127-10.cgn.dynamic.surfer.at 0 1 20434 
+cloud252.hostgator.com 1 1 80000 20201125114522
+175.44.42.144 0 1 20434 
+188-163-109-142.broadband.kyivstar.net 2 2 0 20201127060838
+089144201019.atnat0010.highway.a1.net 0 1 20434 
+ec2-34-229-112-125.compute-1.amazonaws.com 6 6 0 20201130235707
+178-191-180-231.adsl.highway.telekom.at 0 1 20434 
+spurs.unisonplatform.com 3 3 27218 20201127001138
+host-168-91-36-7.static.sprious.com 3 3 28756 20201125043708
+212095005118.public.telering.at 0 1 20434 
+117.132.183.17 0 3 61302 
+ip-95-222-68-70.hsi15.unitymediagroup.de 0 1 20434 
+91.241.164.249 1 1 50514 20201125080428
+google-proxy-74-125-209-22.google.com 0 1 20434 
+192.71.42.108 1 3 0 20201130222839
+93-82-38-22.adsl.highway.telekom.at 0 1 20434 
+n3nlwpweb052.prod.ams3.secureserver.net 1 1 48 20201127113550
+62-46-180-238.adsl.highway.telekom.at 0 1 20434 
+pd9f723d7.dip0.t-ipconnect.de 0 1 20434 
+p5b2da12e.dip0.t-ipconnect.de 0 1 20434 
+google-proxy-66-249-84-178.google.com 0 1 20434 
+p54b24f54.dip0.t-ipconnect.de 0 1 20434 
+77-57-192-96.dclient.hispeed.ch 0 1 20434 
+91-114-243-2.adsl.highway.telekom.at 0 1 20434 
+80-110-70-138.cgn.dynamic.surfer.at 0 1 20434 
+ec2-18-144-69-75.us-west-1.compute.amazonaws.com 0 1 20434 
+ec2-100-24-65-222.compute-1.amazonaws.com 6 6 0 20201130225623
+84.97.2ca9.ip4.static.sl-reverse.com 0 1 20434 
+213-47-90-199.cable.dynamic.surfer.at 0 1 20434 
+mailout76.salzburg.gv.at 0 1 20434 
+77.119.130.108.wireless.dyn.drei.com 0 1 20434 
+ec2-52-91-110-175.compute-1.amazonaws.com 7 7 0 20201128124812
+112.193.168.145 1 1 0 20201125075930
+ec2-18-237-64-242.us-west-2.compute.amazonaws.com 0 1 59356 
+91.141.0.197.wireless.dyn.drei.com 0 1 20434 
+213162072182.public.t-mobile.at 0 1 20434 
+21.225.197.178.dynamic.wless.zhbmb00p-cgnat.res.cust.swisscom.ch 0 1 20434 
+tor-exit-anonymizer.appliedprivacy.net 0 3 1251982 
+92.0a.2fa9.ip4.static.sl-reverse.com 0 4 81736 
+vmi-linkfw1.tugraz.at 0 1 20434 
+91-118-242-173.static.upcbusiness.at 0 1 20434 
+p54a26c68.dip0.t-ipconnect.de 0 1 20434 
+91-167-49-170.subs.proxad.net 0 2 40868 
+ip5f5acbee.dynamic.kabel-deutschland.de 0 1 20434 
+p4fdb49fe.dip0.t-ipconnect.de 0 1 20434 
+ec2-204-236-248-123.compute-1.amazonaws.com 2 2 0 20201128115725
+pd9fa9d94.dip0.t-ipconnect.de 0 1 20434 
+5-248-165-128.broadband.kyivstar.net 15 15 492109 20201130130021
+p5b10bf2b.dip0.t-ipconnect.de 0 1 20434 
+80-110-72-188.cgn.dynamic.surfer.at 0 1 20434 
+pd9fce1a6.dip0.t-ipconnect.de 0 1 20434 
+51.132.216.193 41 43 153795 20201126140417
+80-110-114-251.cgn.dynamic.surfer.at 0 1 0 
+178.165.131.143.wireless.dyn.drei.com 0 1 20434 
+p5dc30315.dip0.t-ipconnect.de 0 1 20434 
+220.181.77.162 3 11 132995 20201127085659
+pd9eb5fc3.dip0.t-ipconnect.de 0 1 20434 
+185.220.101.129 0 1 421885 
+213-225-8-204.nat.highway.a1.net 0 1 20434 
+p5b2fe03e.dip0.t-ipconnect.de 0 1 20434 
+p548d9067.dip0.t-ipconnect.de 0 1 20434 
+katherinegun.tor-exit.calyxinstitute.org 0 1 143368 
+mail7.bbrz-gruppe.at 0 1 20434 
+089144203201.atnat0012.highway.a1.net 0 1 20434 
+143.244.39.197 2 2 0 20201127185918
+p5dc3c739.dip0.t-ipconnect.de 0 1 20434 
+192-164-249-29.adsl.highway.telekom.at 0 1 20434 
+p5b07e3b6.dip0.t-ipconnect.de 0 1 20434 
+ip96f9d6fb.ap.nuro.jp 1 1 0 20201128003333
+p5dea193c.dip0.t-ipconnect.de 0 1 20434 
+91.141.3.30.wireless.dyn.drei.com 0 1 20434 
+85.62.7.133 0 1 20434 
+62-210-83-32.rev.poneytelecom.eu 6 6 3066 20201122062041
+ec2-3-88-46-124.compute-1.amazonaws.com 2 2 0 20201130135330
+85.158.226.103 4 23 2838782 20201130113901
+bng-212-36-253-dsl.simobil.net 0 1 20434 
+91-114-194-147.adsl.highway.telekom.at 0 2 40868 
+80-110-99-185.cgn.dynamic.surfer.at 4 27 4637270 20201130111326
+138.199.18.63 2 2 0 20201126143028
+p4ff8769e.dip0.t-ipconnect.de 0 1 20434 
+213-225-13-249.nat.highway.a1.net 0 1 20434 
+77.116.148.217.wireless.dyn.drei.com 0 2 40868 
+84-113-129-43.cable.dynamic.surfer.at 0 1 20434 
+adsl-84-226-235-155.adslplus.ch 0 1 20434 
+80-110-109-115.cgn.dynamic.surfer.at 0 1 20434 
+amsint-ups-gw1.t-systems.at 0 1 20434 
+192.36.248.249 1 3 14714 20201130222839
+83.242.53.132 0 1 20434 
+ec2-54-196-77-217.compute-1.amazonaws.com 3 3 0 20201127125519
+aqn121.neoplus.adsl.tpnet.pl 0 1 20434 
+i5e86b245.versanet.de 0 1 20434 
+ec2-34-238-169-76.compute-1.amazonaws.com 3 3 0 20201126223353
+ip1f10fd12.dynamic.kabel-deutschland.de 0 1 20434 
+213-225-33-114.nat.highway.a1.net 0 1 20434 
+194.37.230.40 0 2 40868 
+ip-95-223-183-73.hsi16.unitymediagroup.de 0 1 20434 
+tor-exit-9.keff.org 0 2 848655 
+130.81.127.176.dynamic.wline.res.cust.swisscom.ch 0 1 20434 
+178-17-170-112.static.as43289.net 0 1 64255 
+aftr-88-217-180-218.dynamic.mnet-online.de 0 1 20434 
+ec2-52-201-164-159.compute-1.amazonaws.com 9 9 0 20201130113508
+adsl-84-227-56-31.adslplus.ch 0 1 20434 
+046125249121.public.t-mobile.at 0 1 20434 
+213162072170.public.t-mobile.at 0 1 20434 
+178.168.200.130 2 2 0 20201130040736
+91.141.2.25.wireless.dyn.drei.com 0 1 20434 
+212-197-157-61.hdsl.highway.telekom.at 0 1 20434 
+ec2-3-80-239-141.compute-1.amazonaws.com 3 3 0 20201130125636
+dslb-178-010-138-135.178.010.pools.vodafone-ip.de 0 1 20434 
+web3.ltmd.net 1 1 102 20201130181354
+94.134.88.251 0 1 20434 
+130-237-93-172.reverse-dns 0 1 20434 
+77.74.177.113 3 3 20000 20201126214350
+174.17.122.34.bc.googleusercontent.com 7 7 3066 20201127011229
+40.124.51.196 1 1 0 20201125000423
+dynamic-046-114-110-096.46.114.pool.telefonica.de 0 1 20434 
+77-56-211-11.dclient.hispeed.ch 0 1 20434 
+ip-109-41-65-181.web.vodafone.de 0 1 20434 
+77.119.129.82.wireless.dyn.drei.com 0 1 20434 
+h195202149082.fis.cm.kabsi.at 0 1 20434 
+178-190-143-143.adsl.highway.telekom.at 0 2 40868 
+p3nlwpweb088.shr.prod.phx3.secureserver.net 1 1 102 20201127145458
+80.123.245.6 0 1 20434 
+178.115.131.150.wireless.dyn.drei.com 0 1 20434 
+105.155.149.17 4 4 17379 20201122031600
+static.38.92.203.116.clients.your-server.de 33 33 104728 20201125055249
+213-225-13-57.nat.highway.a1.net 0 1 20434 
+213162073075.public.t-mobile.at 0 1 20434 
+80-109-215-140.cable.dynamic.surfer.at 0 1 20434 
+dynamic-077-007-158-170.77.7.pool.telefonica.de 0 1 20434 
+dynamic-046-114-147-038.46.114.pool.telefonica.de 0 1 20434 
+91.113.144.250 0 1 20434 
+pr-svc-em1-014.emea.corpinter.net 0 2 40868 
+ip5f5bf84e.dynamic.kabel-deutschland.de 0 1 20434 
+ec2-18-209-110-99.compute-1.amazonaws.com 2 2 0 20201128140702
+ip5f5bcdaa.dynamic.kabel-deutschland.de 0 2 40868 
+adsl6po158.tel.net.ba 0 1 20434 
+sg1-ls3.a2hosting.com 1 1 10009 20201122061027
+ec2-18-205-59-205.compute-1.amazonaws.com 3 3 10021 20201122003121
+185.220.101.10 0 1 750237 
+84-115-65-145.wifi.dynamic.surfer.at 0 1 20434 
+93-82-104-152.adsl.highway.telekom.at 0 1 20434 
+81-223-111-115.static.upcbusiness.at 0 1 20434 
+vie-188-118-240-239.dsl.sil.at 0 1 20434 
+38.145.88.44 3 25 4176762 20201124160811
+212-186-240-161.static.upcbusiness.at 0 1 20434 
+p5de48880.dip0.t-ipconnect.de 0 1 20434 
+p54bcc809.dip0.t-ipconnect.de 0 1 20434 
+produzione.pgdue.com 1 1 63 20201127145606
+dynamic-089-012-163-214.89.12.pool.telefonica.de 0 1 20434 
+41.92.1.206 29 30 85846 20201126170702
+ec2-54-197-6-195.compute-1.amazonaws.com 5 5 0 20201128191433
+ec2-54-166-211-78.compute-1.amazonaws.com 4 4 0 20201126025446
+94.134.91.200 0 1 20434 
+ec2-35-168-15-191.compute-1.amazonaws.com 1 1 50516 20201121174812
+217-149-160-116.nat.highway.telekom.at 0 1 20434 
+80-110-104-106.cgn.dynamic.surfer.at 0 1 20434 
+212-88-0-39.hdsl.highway.telekom.at 0 1 20434 
+dsl-212-100-60-198.pool.bitel.net 0 1 20434 
+ec2-54-235-17-83.compute-1.amazonaws.com 6 6 0 20201129004826
+213-225-8-46.nat.highway.a1.net 0 1 20434 
+178.171.112.237 1 1 0 20201130080317
+ws174.cnv.at 0 1 59356 
+ip5f5af6b9.dynamic.kabel-deutschland.de 0 1 20434 
+ec2-34-239-156-251.compute-1.amazonaws.com 96 100 341166 20201126215349
+ec2-18-219-108-48.us-east-2.compute.amazonaws.com 3 3 10000 20201125100748
+212095005086.public.telering.at 0 2 40868 
+93.0a.2fa9.ip4.static.sl-reverse.com 0 2 40868 
+clnet-p113-229.ikbnet.co.at 0 1 20434 
+static.149.32.203.116.clients.your-server.de 14 48 5511471 20201120210318
+213-47-152-92.static.upcbusiness.at 0 1 20434 
+31.206.5.167 1 1 0 20201120213913
+178.165.128.189.wireless.dyn.drei.com 0 1 20434 
+193.39.245.86 1 1 8592 20201124151343
+88-117-115-237.adsl.highway.telekom.at 0 1 20434 
+62-178-18-107.cable.dynamic.surfer.at 4 26 4176761 20201120214251
+188.3.114.77 0 1 20434 
+178-191-198-133.adsl.highway.telekom.at 0 1 20434 
+ipb218f8b7.dynamic.kabel-deutschland.de 0 1 20434 
+dynamic-002-243-169-235.2.243.pool.telefonica.de 0 1 20434 
+clnet-p073-199.ikbnet.co.at 0 1 20434 
+p4fcd1b76.dip0.t-ipconnect.de 0 1 20434 
+bbcs-175-185.cust.wingo.ch 0 1 20434 
+p4fe79d0e.dip0.t-ipconnect.de 0 1 20434 
+s6.webbhosting.nu 1 1 0 20201127145440
+192.164.201.40 0 1 20434 
+123.ip-176-31-163.eu 1 1 0 20201122202154
+ec2-3-80-170-3.compute-1.amazonaws.com 2 2 0 20201130231659
+dynamic-077-013-078-189.77.13.pool.telefonica.de 0 1 20434 
+217-149-167-84.nat.highway.telekom.at 0 1 20434 
+ec2-54-81-119-92.compute-1.amazonaws.com 3 3 0 20201130205720
+mail.pszw.at 0 1 20434 
+n3nlwpwebof002.prod.ams3.secureserver.net 1 1 66 20201127145535
+p5dede652.dip0.t-ipconnect.de 0 1 20434 
+138.197.64.69 0 1 20434 
+rate-limited-proxy-66-249-92-209.google.com 1 1 53 20201128111650
+88.116.59.210 0 1 20434 
+static-185-50-233-126.dsl.telematica.at 0 1 20434 
+222.236.10.174 0 1 20434 
+p2e5316f9.dip0.t-ipconnect.de 0 1 20434 
+segredosdaaudiencia.com.br 1 1 10011 20201125192006
+178-189-148-49.adsl.highway.telekom.at 0 1 20434 
+ec2-18-234-29-97.compute-1.amazonaws.com 5 5 0 20201130100527
+205.169.39.52 2 12 240976 20201128142515
+80-110-121-117.cgn.dynamic.surfer.at 0 1 20434 
+089144200055.atnat0009.highway.a1.net 0 2 40868 
+ec2-3-239-48-227.compute-1.amazonaws.com 1 1 10000 20201126101233
+202.189.111.110 0 1 20434 
+139.155.88.164 2 2 50483 20201128144049
+194-96-82-99.hdsl.highway.telekom.at 0 1 20434 
+82-149-106-124.wco.wellcom.at 0 1 20434 
+static.104.94.99.88.clients.your-server.de 3 3 0 20201122084550
+google-proxy-66-249-83-198.google.com 0 5 102170 
+212095007230.public.telering.at 0 1 20434 
+fwdproxy-lla-018.fbsv.net 0 1 20434 
+p5dd37e9c.dip0.t-ipconnect.de 0 1 20434 
+clnet-p105-055.ikbnet.co.at 0 1 20434 
+089144211089.atnat0020.highway.a1.net 0 1 20434 
+tor-exit-2.zbau.f3netze.de 0 2 348760 
+srvnet-01-071.ikbnet.co.at 0 1 20434 
+157.230.210.133 1 1 8649 20201128142943
+ec2-54-86-176-58.compute-1.amazonaws.com 3 3 0 20201127085050
+x527163ee.dyn.telefonica.de 0 1 20434 
+x4db731be.dyn.telefonica.de 0 1 20434 
+72.221.164.34 3 3 109183 20201126214944
+97-139-16-94.dyn.cable.fcom.ch 0 1 20434 
+hn.kd.ny.adsl 3 3 20022 20201125132037
+217-149-161-156.nat.highway.telekom.at 0 1 20434 
+ec2-52-90-167-89.compute-1.amazonaws.com 4 4 0 20201126205409
+178.165.129.76.wireless.dyn.drei.com 0 1 20434 
+ec2-34-203-221-238.compute-1.amazonaws.com 3 3 0 20201130153905
+193-80-224-220.adsl.highway.telekom.at 0 2 40868 
+dslb-084-057-075-199.084.057.pools.vodafone-ip.de 0 1 20434 
+ec2-54-89-93-21.compute-1.amazonaws.com 2 2 0 20201128165103
+91-114-167-102.adsl.highway.telekom.at 0 1 20434 
+dsl-217-25-168-7.pool.bitel.net 0 1 20434 
+host-95-224-129-6.business.telecomitalia.it 2 2 50483 20201124215449
+83-64-175-195.static.upcbusiness.at 0 1 20434 
+tor61.quintex.com 0 1 96097 
+213-225-0-214.nat.highway.a1.net 0 2 40868 
+dynamic-046-114-033-048.46.114.pool.telefonica.de 0 1 20434 
+62.47.150.178.triolan.net 4 4 144010 20201122035340
+85-127-149-114.dsl.dynamic.surfer.at 0 1 20434 
+p3nlhg404.shr.prod.phx3.secureserver.net 1 1 87 20201127145449
+193-80-11-230.adsl.highway.telekom.at 0 1 20434 
+p578fcb6b.dip0.t-ipconnect.de 0 1 20434 
+dynamic-077-004-059-159.77.4.pool.telefonica.de 0 1 20434 
+089144196123.atnat0005.highway.a1.net 0 1 20434 
+194-166-212-101.hdsl.highway.telekom.at 0 2 40868 
+217-149-167-224.nat.highway.telekom.at 0 1 20434 
+ec2-35-175-228-34.compute-1.amazonaws.com 2 2 0 20201126075341
+stud-kath-167-50.studhaus.unibas.ch 0 1 20434 
+ps575952.dreamhostps.com 1 1 10045 20201130202058
+192.71.142.35 2 2 10563 20201128144055
+213.182.199.95 1 1 0 20201122080348
+ec2-52-70-240-76.compute-1.amazonaws.com 2 2 0 20201130212757
+hsi-kbw-46-223-163-142.hsi.kabel-badenwuerttemberg.de 0 1 20434 
+ec2-34-226-204-183.compute-1.amazonaws.com 2 2 0 20201125223738
+fwdproxy-lla-010.fbsv.net 0 1 20434 
+ec2-18-193-224-172.eu-central-1.compute.amazonaws.com 0 1 20434 
+41.92.103.182 49 52 203827 20201126170703
+80-110-84-220.cgn.dynamic.surfer.at 0 2 40868 
+88-115-149-56.elisa-laajakaista.fi 2 2 0 20201127202023
+188.166.91.35 1 1 102 20201127193642
+ip5f5bda24.dynamic.kabel-deutschland.de 0 1 20434 
+178.115.131.187.wireless.dyn.drei.com 0 1 20434 
+vm1549919.6ssd.had.wf 12 12 0 20201122161752
+p5b28b058.dip0.t-ipconnect.de 0 1 20434 
+089144211101.atnat0020.highway.a1.net 0 1 20434 
+x4db9127f.dyn.telefonica.de 0 1 20434 
+pd9550d03.dip0.t-ipconnect.de 0 1 20434 
+77.119.129.225.wireless.dyn.drei.com 0 1 20434 
+192-164-120-230.hdsl.highway.telekom.at 0 2 40868 
+51.103.155.80 3 3 0 20201125014531
+213-225-37-253.nat.highway.a1.net 0 1 20434 
+197.15.208.33 88 92 295625 20201124214815
+host-091-097-070-072.ewe-ip-backbone.de 0 1 20434 
+80-110-88-199.cgn.dynamic.surfer.at 0 1 20434 
+39.98.74.86 0 4 14693 
+80-110-144-42.static.upcbusiness.at 0 1 20434 
+62-178-222-238.cable.dynamic.surfer.at 0 1 20434 
+ec2-54-174-34-229.compute-1.amazonaws.com 3 3 0 20201124151719
+217-149-175-195.nat.highway.telekom.at 0 1 20434 
+80-110-119-136.cgn.dynamic.surfer.at 0 1 20434 
+212095006035.public.telering.at 0 1 20434 
+62-178-154-169.cable.dynamic.surfer.at 0 1 20434 
+196.242.200.29 1 1 50513 20201125215702
+80.123.225.110 0 1 20434 
+213-225-13-232.nat.highway.a1.net 0 1 20434 
+ppp78-37-49-216.pppoe.komi.dslavangard.ru 3 3 10000 20201124105239
+p57928a48.dip0.t-ipconnect.de 0 1 20434 
+196.242.114.194 1 1 50514 20201128183033
+213-225-7-56.nat.highway.a1.net 0 1 20434 
+vm1542612.3ssd.had.wf 5 5 164018 20201126234008
+p4fef30c6.dip0.t-ipconnect.de 0 1 20434 
+ip-109-40-240-49.web.vodafone.de 0 1 20434 
+h081217084175.dyn.cm.kabsi.at 0 3 61302 
+hsi-kbw-078-042-053-221.hsi3.kabel-badenwuerttemberg.de 0 1 20434 
+ip1f11fee8.dynamic.kabel-deutschland.de 0 1 20434 
+219.sub168.pika.net.id 1 1 10022 20201126221847
+ec2-35-170-61-24.compute-1.amazonaws.com 2 2 50482 20201126000121
+45.120.51.65 1 1 50513 20201126112049
+194.124.151.242 0 1 20434 
+106.254.241.146 1 1 0 20201122163347
+176-8-91-58.broadband.kyivstar.net 2 2 0 20201121050558
+ec2-54-167-204-95.compute-1.amazonaws.com 2 2 0 20201130234113
+251.39.194.178.dynamic.wline.res.cust.swisscom.ch 0 1 20434 
+dslb-090-186-139-068.090.186.pools.vodafone-ip.de 0 1 20434 
+ec2-3-83-239-70.compute-1.amazonaws.com 0 1 20434 
+vps-65e09257.vps.ovh.net 0 1 253220 
+p5b0dd3eb.dip0.t-ipconnect.de 0 1 20434 
+tor-exit.r1.darknet.dev 0 1 159873 
+213-147-167-49.nat.highway.webapn.at 0 1 20434 
+cgn-89-1-208-127.nc.de 0 1 20434 
+178.165.130.27.wireless.dyn.drei.com 0 1 20434 
+20.51.228.251 8 8 20423 20201126183455
+dynamic-046-114-140-228.46.114.pool.telefonica.de 0 1 20434 
+hsi-kbw-5-158-163-2.hsi19.kabel-badenwuerttemberg.de 0 2 40868 
+80-110-68-96.cgn.dynamic.surfer.at 0 2 40868 
+089144196194.atnat0005.highway.a1.net 0 1 20434 
+185.220.101.134 0 1 20434 
+191.234.175.62 2 2 1045 20201122032220
+45.154.228.170 1 1 8613 20201130212539
+pd9513d07.dip0.t-ipconnect.de 0 1 20434 
+ec2-3-90-169-21.compute-1.amazonaws.com 4 4 0 20201128124801
+192-164-108-174.hdsl.highway.telekom.at 0 1 20434 
+ec2-54-164-134-39.compute-1.amazonaws.com 2 2 0 20201130225437
+p5de3f5b3.dip0.t-ipconnect.de 0 1 20434 
+pd9550347.dip0.t-ipconnect.de 0 1 20434 
+p2e529236.dip0.t-ipconnect.de 0 1 20434 
+ec2-18-234-246-250.compute-1.amazonaws.com 2 2 0 20201128110354
+212095007235.public.telering.at 0 1 20434 
+ec2-34-227-69-13.compute-1.amazonaws.com 4 4 0 20201127073631
+213-225-11-122.nat.highway.a1.net 0 1 20434 
+p4fe69d80.dip0.t-ipconnect.de 0 1 20434 
+213-225-8-225.nat.highway.a1.net 0 1 20434 
+p54832cea.dip0.t-ipconnect.de 0 1 20434 
+ec2-44-234-66-161.us-west-2.compute.amazonaws.com 2 12 240997 20201130092018
+80-110-124-98.cgn.dynamic.surfer.at 0 1 20434 
+133.red-83-37-166.dynamicip.rima-tde.net 0 1 20434 
+vpn.pacovis.at 0 1 20434 
+194.107.184.200 0 1 20434 
+213162072133.public.t-mobile.at 0 1 20434 
+089144200103.atnat0009.highway.a1.net 0 2 40868 
+188-23-166-77.adsl.highway.telekom.at 0 1 20434 
+p4fe2b68e.dip0.t-ipconnect.de 0 1 20434 
+144.126.192.156 0 5 102170 
+213162080094.public.t-mobile.at 0 1 20434 
+80-110-102-56.cgn.dynamic.surfer.at 0 1 20434 
+217-149-167-29.nat.highway.telekom.at 0 1 20434 
+static.88-198-140-4.clients.your-server.de 6 6 10021 20201125212615
+20.64.155.140 6 6 3066 20201125155031
+104.248.4.116 0 1 20434 
+b2b-37-24-168-130.unitymedia.biz 0 2 40868 
+mail.pinkdate.is 0 1 149236 
+ec2-18-159-228-49.eu-central-1.compute.amazonaws.com 10 10 45605 20201126120704
+dynamic-002-247-240-046.2.247.pool.telefonica.de 0 1 20434 
+193-83-52-122.adsl.highway.telekom.at 0 2 40868 
+ec2-54-162-123-29.compute-1.amazonaws.com 2 2 0 20201126062904
+80-110-86-151.cgn.dynamic.surfer.at 1 1 272 20201124182045
+p4feffb15.dip0.t-ipconnect.de 0 1 20434 
+dyndsl-178-142-227-151.ewe-ip-backbone.de 0 1 20434 
+87-243-132-22.ainet.at 0 1 20434 
+198.144.121.93 0 1 527653 
+p57b22efb.dip0.t-ipconnect.de 0 1 20434 
+p4fd97713.dip0.t-ipconnect.de 0 1 20434 
+80-110-105-16.cgn.dynamic.surfer.at 0 1 20434 
+160.44.65.4 0 1 20434 
+80-110-110-7.cgn.dynamic.surfer.at 0 1 20434 
+213162072227.public.t-mobile.at 0 1 20434 
+168.81.93.130 1 1 10021 20201125043652
+no.rdns.ukservers.com 2 2 0 20201127005449
+ip5f5bea18.dynamic.kabel-deutschland.de 0 1 20434 
+ec2-18-208-230-55.compute-1.amazonaws.com 3 3 0 20201128190146
+91-115-60-51.adsl.highway.telekom.at 0 1 20434 
+175.44.42.189 0 1 20434 
+janus.stmk.gv.at 0 1 0 
+217-149-174-212.nat.highway.telekom.at 0 1 20434 
+45.153.157.85 2 2 0 20201127110823
+snipster25.go.mail.ru 0 2 1048548 
+104.131.34.188 1 1 10043 20201127205256
+089144212029.atnat0021.highway.a1.net 0 2 40868 
+dslb-002-204-219-159.002.204.pools.vodafone-ip.de 0 1 20434 
+80-123-37-181.adsl.highway.telekom.at 0 1 20434 
+213142096174.public.telering.at 0 1 20434 
+ec2-54-70-178-68.us-west-2.compute.amazonaws.com 1 1 71 20201127145556
+dynamic-095-117-019-069.95.117.pool.telefonica.de 0 1 20434 
+ip5f5ae1a3.dynamic.kabel-deutschland.de 0 1 20434 
+80-110-116-218.cgn.dynamic.surfer.at 0 1 20434 
+192.36.70.176 0 1 0 
+p4ffd2cb6.dip0.t-ipconnect.de 0 1 20434 
+p3nlwpweb085.shr.prod.phx3.secureserver.net 1 1 48 20201126125035
+p50822d31.dip0.t-ipconnect.de 0 1 20434 
+p5b3bd1b7.dip0.t-ipconnect.de 0 1 20434 
+193.197.154.42 0 1 20434 
+eduroam-nat1.rz.uni-ulm.de 0 1 20434 
+186.38.14.46.static.wline.lns.sme.cust.swisscom.ch 0 1 20434 
+no-rdns.mivocloud.com 1 1 0 20201121000439
+62-210-92-175.rev.poneytelecom.eu 3 3 10020 20201120223014
+62-47-6-116.adsl.highway.telekom.at 0 1 20434 
+80-110-124-36.cgn.dynamic.surfer.at 0 1 20434 
+bras-base-toroon0628w-grc-30-174-89-145-112.dsl.bell.ca 0 1 20434 
+144.126.192.170 0 4 81736 
+89-26-96-217.stjo.dyn.salzburg-online.at 0 1 20434 
+mue-88-130-57-075.dsl.tropolys.de 0 1 20434 
+197.247.249.222 98 102 348520 20201121215030
+tor-exit-15.zbau.f3netze.de 0 2 386191 
+1-38-92-56.live.vodafone.in 2 2 50483 20201127125523
+85-127-21-93.dsl.dynamic.surfer.at 0 1 20434 
+40.124.30.229 34 34 80917 20201121214652
+87.123.203.177 0 1 20434 
+213-225-15-184.nat.highway.a1.net 0 1 20434 
+google-proxy-74-125-212-150.google.com 0 2 40868 
+046125250073.public.t-mobile.at 0 1 20434 
+91-133-65-81.stat.cablelink.at 0 1 20434 
+firewall1.tilak.at 0 1 20434 
+ip4d14fa32.dynamic.kabel-deutschland.de 0 1 20434 
+ip-37-201-146-86.hsi13.unitymediagroup.de 0 1 20434 
+185-251-200-22.lampert.tv 0 1 20434 
+w-05.th.seeweb.it 1 1 48 20201124114253
+p5de33934.dip0.t-ipconnect.de 0 1 20434 
+host95-143-22-107.azimut-r.net 4 4 137275 20201126082127
+80-110-126-33.cgn.dynamic.surfer.at 0 1 20434 
+41.225.193.23 81 85 159843 20201126011523
+ppp-188-174-37-220.dynamic.mnet-online.de 0 1 20434 
+80-110-114-193.cgn.dynamic.surfer.at 0 1 20434 
+i5e86b164.versanet.de 0 1 20434 
+188-23-143-178.adsl.highway.telekom.at 0 1 20434 
+monetarygifts.net 0 1 249920 
+194-96-84-46.hdsl.highway.telekom.at 0 1 20434 
+213.208.147.163 0 1 20434 
+fw1a.repromedia.at 0 1 20434 
+ip-109-41-66-109.web.vodafone.de 0 1 20434 
+176.111.173.64 21 21 51482 20201122183551
+213-225-35-226.nat.highway.a1.net 0 1 20434 
+mail2.idec.at 0 1 20434 
+178-191-183-122.adsl.highway.telekom.at 0 2 40868 
+ec2-54-197-211-97.compute-1.amazonaws.com 4 4 0 20201128173620
+ip-109-41-2-169.web.vodafone.de 0 1 20434 
+p4fd266a8.dip0.t-ipconnect.de 0 1 20434 
+ec2-54-172-183-203.compute-1.amazonaws.com 0 1 59356 
+x4dbe5cce.dyn.telefonica.de 96 100 341186 20201125041847
+1f2ef17e.nat.pool.telekom.hu 0 1 20434 
+ec2-34-230-15-217.compute-1.amazonaws.com 4 4 0 20201126061238
+140.143.148.79 8 8 40025 20201126083927
+80-110-112-151.cgn.dynamic.surfer.at 0 1 20434 
+hopus.lanetcie.com 1 1 27249 20201126101845
+196.244.4.214 2 2 0 20201125112757
+77.119.129.250.wireless.dyn.drei.com 0 2 40868 
+194-93-175-220.dyn.cablelink.at 0 1 20434 
+dslb-090-186-016-063.090.186.pools.vodafone-ip.de 0 1 20434 
+ec2-54-198-162-216.compute-1.amazonaws.com 4 4 0 20201130220437
+ec2-18-232-117-215.compute-1.amazonaws.com 2 2 0 20201124202447
+dynamic-046-114-150-142.46.114.pool.telefonica.de 0 1 20434 
+178.79.103.226 0 1 20434 
+p57ba53b4.dip0.t-ipconnect.de 0 1 20434 
+ec2-3-93-7-184.compute-1.amazonaws.com 1 1 0 20201121200523
+192-164-142-144.hdsl.highway.telekom.at 0 1 20434 
+ec2-54-188-33-14.us-west-2.compute.amazonaws.com 0 1 59356 
+178.165.130.136.wireless.dyn.drei.com 0 1 20434 
+31.212.175.99 0 1 20434 
+91-115-49-161.adsl.highway.telekom.at 0 1 20434 
+google-proxy-74-125-212-148.google.com 0 2 40868 
+5x18x240x240.static-business.spb.ertelecom.ru 0 1 20434 
+google-proxy-66-102-8-89.google.com 0 3 61302 
+ip2504e1dd.dynamic.kabel-deutschland.de 0 1 20434 
+tor5e1.digitale-gesellschaft.ch 2 2 54863 20201128190905
+80-108-253-235.cable.dynamic.surfer.at 0 1 20434 
+vmi170410.contaboserver.net 1 1 1974 20201120225258
+144.126.192.192 0 2 40868 
+158.46.171.134 1 1 0 20201124080445
+adsl-ull-135-48.47-151.wind.it 0 1 20434 
+dslb-188-104-032-178.188.104.pools.vodafone-ip.de 0 1 20434 
+pd957afd2.dip0.t-ipconnect.de 0 2 40868 
+217.196.152.169 0 1 20434 
+80-109-203-219.cable.dynamic.surfer.at 0 1 20434 
+p5de632b1.dip0.t-ipconnect.de 0 1 20434 
+5.62.20.25 0 1 20434 
+ec2-54-152-213-245.compute-1.amazonaws.com 6 6 0 20201126180822
+p5b11d0d8.dip0.t-ipconnect.de 0 1 20434 
+ec2-3-138-107-202.us-east-2.compute.amazonaws.com 7 7 3066 20201125003530
+178.165.130.236.wireless.dyn.drei.com 0 1 20434 
+213-225-15-186.nat.highway.a1.net 0 2 40868 
+f35.my.com 3 3 54564 20201125014246
+host-94-103-86-54.hosted-by-vdsina.ru 3 3 26771 20201126132344
+ec2-3-94-96-4.compute-1.amazonaws.com 2 2 0 20201124220730
+77.119.128.141.wireless.dyn.drei.com 0 1 20434 
+218-102-000-128.ip-addr.inexio.net 0 1 20434 
+tmo-101-28.customers.d1-online.com 0 1 20434 
+91-114-208-93.adsl.highway.telekom.at 0 1 20434 
+dslb-088-070-208-015.088.070.pools.vodafone-ip.de 0 1 20434 
+213-240-73-119.adsl.highway.telekom.at 0 1 20434 
+193-80-222-96.adsl.highway.telekom.at 0 1 20434 
+178.165.130.103.wireless.dyn.drei.com 0 1 20434 
+5aca3959.bb.sky.com 0 1 20434 
+x4db78783.dyn.telefonica.de 0 1 20434 
+87.129.137.162 0 1 20434 
+38.86.229.244 0 1 20434 
+77.118.189.150.wireless.dyn.drei.com 0 2 40868 
+snipster26.go.mail.ru 0 2 542135 
+92x255x198x132.static-customer.kzn.ertelecom.ru 7 7 164017 20201130151805
+ec2-3-80-234-188.compute-1.amazonaws.com 1 1 0 20201126085220
+193-83-175-190.hdsl.highway.telekom.at 0 1 20434 
+80-110-114-83.cgn.dynamic.surfer.at 0 1 20434 
+p54872e34.dip0.t-ipconnect.de 0 1 20434 
+46.151.200.18 0 1 20434 
+195-192-56-232.dyn.cablelink.at 0 1 20434 
+ip-5-147-134-176.unitymediagroup.de 0 1 20434 
+193-154-60-210.adsl.highway.telekom.at 0 1 20434 
+80.82.165.109.donpac.ru 5 5 164017 20201128172451
+dmp4.skyeris.net 3 3 50513 20201129015217
+178.115.129.130.wireless.dyn.drei.com 0 1 20434 
+213162073016.public.t-mobile.at 0 1 20434 
+ec2-3-124-12-203.eu-central-1.compute.amazonaws.com 0 19 388246 
+ec2-3-81-161-156.compute-1.amazonaws.com 2 2 0 20201126015718
+80-110-121-25.cgn.dynamic.surfer.at 0 1 20434 
+213162073148.public.t-mobile.at 0 1 20434 
+213142096049.public.telering.at 0 1 20434 
+ec2-54-191-5-164.us-west-2.compute.amazonaws.com 3 3 10000 20201125205301
+80-110-122-192.cgn.dynamic.surfer.at 0 1 20434 
+x4dbd552f.dyn.telefonica.de 0 1 20434 
+77.119.128.224.wireless.dyn.drei.com 0 1 20434 
+178.115.129.247.wireless.dyn.drei.com 0 1 20434 
+217-149-175-102.nat.highway.telekom.at 0 1 20434 
+hsi-kbw-46-223-142-7.hsi.kabel-badenwuerttemberg.de 0 1 20434 
+hide-253.nat.esn.at 0 1 20434 
+77.119.129.9.wireless.dyn.drei.com 0 1 20434 
+dyndsl-091-096-014-024.ewe-ip-backbone.de 0 1 20434 
+ec2-34-204-92-40.compute-1.amazonaws.com 4 4 0 20201128185338
+xdsl-87-79-230-84.nc.de 0 1 20434 
+bzq-84-108-24-230.cablep.bezeqint.net 96 100 341185 20201121202240
+p549dee99.dip0.t-ipconnect.de 0 1 20434 
+p4fe9a8b3.dip0.t-ipconnect.de 0 1 20434 
+ec2-34-220-107-29.us-west-2.compute.amazonaws.com 0 1 59356 
+95.211.230.211 0 1 16997 
+x59cc8719.dyn.telefonica.de 0 1 20434 
+178.171.40.20 1 1 0 20201127080402
+pd9ffcb9e.dip0.t-ipconnect.de 0 1 20434 
+213162072229.public.t-mobile.at 0 1 20434 
+ec2-54-145-179-95.compute-1.amazonaws.com 3 3 0 20201128151753
+105.180.202.62.dynamic.cgnat.res.cust.swisscom.ch 0 1 20434 
+p57ab76fa.dip0.t-ipconnect.de 0 1 20434 
+p5b006df6.dip0.t-ipconnect.de 0 1 20434 
+089144193142.atnat0002.highway.a1.net 0 1 20434 
+213-225-5-22.nat.highway.a1.net 0 1 20434 
+ip-109-41-131-191.web.vodafone.de 0 1 20434 
+80-110-71-114.cgn.dynamic.surfer.at 0 1 20434 
+120.26.50.66 0 1 7356 
+ip4d16f884.dynamic.kabel-deutschland.de 0 1 20434 
+089144206203.atnat0015.highway.bob.at 0 1 20434 
+62.218.123.130 0 1 20434 
+80-110-81-47.cgn.dynamic.surfer.at 0 1 20434 
+vps08.dgo.ext.riskiq 0 1 20434 
+213162073007.public.t-mobile.at 0 1 20434 
+188-23-51-156.adsl.highway.telekom.at 0 1 20434 
+securewe01.boyens-medien.de 0 1 20434 
+188.117.244.232 0 1 20434 
+aftr-37-201-169-52.unity-media.net 2 12 276834 20201125081835
+ip-88-153-195-187.hsi04.unitymediagroup.de 0 1 20434 
+hsi-kbw-109-192-194-013.hsi6.kabel-badenwuerttemberg.de 0 1 20434 
+2.58.189.41 0 1 20434 
+p5484eba3.dip0.t-ipconnect.de 0 1 20434 
+188-132-067-156.ip-addr.inexio.net 0 1 20434 
+178-191-149-133.adsl.highway.telekom.at 0 1 20434 
+52.162.211.179 0 3 61302 
+144.126.192.212 0 10 204340 
+ec2-34-229-98-96.compute-1.amazonaws.com 0 1 59356 
+192-164-11-201.hdsl.highway.telekom.at 0 1 20434 
+192-164-55-199.hdsl.highway.telekom.at 0 1 20434 
+ps40515.dreamhostps.com 1 1 51 20201127145611
+88.116.201.123 0 1 20434 
+leasedline-static-080-228-078-149.ewe-ip-backbone.de 0 1 20434 
+191.102.151.112 3 3 10000 20201126173939
+217-149-165-129.nat.highway.telekom.at 0 1 20434 
+pub151248168072.dh-hfc.datazug.ch 0 1 20434 
+dslb-094-216-035-110.094.216.pools.vodafone-ip.de 0 1 20434 
+104.227.236.46 5 5 30951 20201126062910
+110.229.218.7 2 2 7250 20201122060429
+39.101.184.55 1 1 0 20201124160530
+snipster29.go.mail.ru 0 2 386297 
+212095005141.public.telering.at 0 1 20434 
+217-149-162-197.nat.highway.telekom.at 0 1 20434 
+192.71.10.105 1 2 0 20201128144050
+139.34.194.178.dynamic.wline.res.cust.swisscom.ch 0 1 20434 
+185.220.101.141 0 1 20434 
+60.13.136.33 2 19 3238726 20201125075940
+dynamic-095-115-061-142.95.115.pool.telefonica.de 0 1 20434 
+ip5f5bc9ee.dynamic.kabel-deutschland.de 0 1 20434 
+dynamic-046-114-039-030.46.114.pool.telefonica.de 0 1 20434 
+51.103.149.39 1 1 0 20201125002327
+p57bfa991.dip0.t-ipconnect.de 0 1 20434 
+84-112-102-74.cable.dynamic.surfer.at 0 1 20434 
+31-10-147-115.cgn.dynamic.upc.ch 0 1 20434 
+209.97.190.232 0 1 20434 
+178.165.128.148.wireless.dyn.drei.com 0 1 20434 
+80-110-113-183.cgn.dynamic.surfer.at 0 1 20434 
+dynamic-095-115-091-103.95.115.pool.telefonica.de 0 1 20434 
+213.182.201.159 1 1 0 20201121080338
+host95-143-21-153.azimut-r.net 4 4 137275 20201126025230
+afhj197.neoplus.adsl.tpnet.pl 2 2 66871 20201128135013
+80-110-101-50.cgn.dynamic.surfer.at 0 1 20434 
+google-proxy-74-125-209-20.google.com 0 1 20434 
+ip5f5afce7.dynamic.kabel-deutschland.de 0 1 20434 
+213.150.228.38 0 2 40868 
+80.120.216.66 0 1 20434 
+p5b31f4e5.dip0.t-ipconnect.de 0 1 20434 
+178.115.129.104.wireless.dyn.drei.com 0 1 20434 
+217-149-175-10.nat.highway.telekom.at 0 1 20434 
+p5dc2caac.dip0.t-ipconnect.de 0 1 20434 
+ip-95-222-116-170.hsi15.unitymediagroup.de 0 1 20434 
+p5b363bf5.dip0.t-ipconnect.de 0 1 20434 
+p54bceec3.dip0.t-ipconnect.de 0 1 20434 
+157.41.20.118 0 1 20434 
+h081217062152.dyn.cm.kabsi.at 0 1 20434 
+91.112.148.149 0 1 20434 
+mail.notariat-kapfenberg.at 0 1 20434 
+69.25.58.62 2 12 240976 20201128151141
+178.115.131.222.wireless.dyn.drei.com 0 1 20434 
+194.31.19.42 0 1 20434 
+ec2-54-146-38-87.compute-1.amazonaws.com 5 5 0 20201128223418
+80-110-33-136.static.upcbusiness.at 0 1 20434 
+79.173.90.153 40 40 1312173 20201126131401
+212.51.15.74 0 1 20434 
+92.118.252.80 0 1 20434 
+pd9e5a55b.dip0.t-ipconnect.de 0 1 20434 
+www01.hostagain.com 2 2 20057 20201125202806
+192.71.103.173 1 1 0 20201128144054
+178-190-28-40.adsl.highway.telekom.at 0 1 20434 
+ip-37-201-199-43.hsi13.unitymediagroup.de 0 1 20434 
+80.123.74.178 0 1 20434 
+vps-a2d65391.vps.ovh.net 0 1 387008 
+185.197.44.1 0 1 20434 
+p54905921.dip0.t-ipconnect.de 0 1 20434 
+p4fe3dd23.dip0.t-ipconnect.de 0 1 20434 
+p54a073d5.dip0.t-ipconnect.de 0 1 20434 
+97e1f703.skybroadband.com 0 1 20434 
+no-dns-yet.as25178.net 0 1 20434 
+089144209253.atnat0018.highway.a1.net 0 1 20434 
+175.44.42.91 0 3 61302 
+ip-37-201-153-31.hsi13.unitymediagroup.de 0 1 20434 
+196.245.151.216 3 3 1045 20201126202026
+dynamic-046-114-091-106.46.114.pool.telefonica.de 0 2 40868 
+80-110-96-229.cgn.dynamic.surfer.at 0 1 20434 
+ec2-54-162-102-36.compute-1.amazonaws.com 0 2 0 
+213142096192.public.telering.at 0 1 20434 
+adsl-89-217-180-200.adslplus.ch 0 1 20434 
+snipster27.go.mail.ru 0 2 644382 
+80.121.232.138 9 40 5157838 20201126093636
+gator4074.hostgator.com 2 2 27249 20201126101843
+montecarlo.websitewelcome.com 1 1 48 20201121132713
+vps-92064788.vps.ovh.net 0 1 59459 
+185.111.157.166 1 1 8670 20201128144813
+ip-110-235.mlzone.ru 0 2 0 
+089144202080.atnat0011.highway.a1.net 0 1 20434 
+ec2-54-145-79-13.compute-1.amazonaws.com 2 2 0 20201126183127
+185.220.101.130 0 1 143368 
+tor-exit-1.zbau.f3netze.de 0 1 88759 
+85-22-169-244.ip.dokom21.de 0 1 20434 
+185.220.101.199 0 2 532616 
+xdsl-87-78-78-49.nc.de 0 1 20434 
+ihp-osb-lngweb4.ihp.iinet.net.au 1 1 0 20201128132208
+193-154-246-28.adsl.highway.telekom.at 0 1 20434 
+aaen49.neoplus.adsl.tpnet.pl 0 1 20434 
+ip-185-143-182-078.innonet.at 0 1 20434 
+dynamic-046-114-090-248.46.114.pool.telefonica.de 0 1 20434 
+40.87.101.75 2 2 7356 20201124215623
+80-110-125-0.cgn.dynamic.surfer.at 0 1 20434 
+dynamic-095-117-020-020.95.117.pool.telefonica.de 0 1 20434 
+82.194.104.178 0 1 20434 
+194-96-50-35.hdsl.highway.telekom.at 0 1 20434 
+112-160-16-94.dyn.cable.fcom.ch 0 2 40868 
+dynamic-095-116-147-075.95.116.pool.telefonica.de 0 1 143368 
+catv-176-63-20-31.catv.broadband.hu 0 1 20434 
+83.28.3.85.dynamic.wline.res.cust.swisscom.ch 0 1 20434 
+ec2-35-153-73-183.compute-1.amazonaws.com 4 4 0 20201128152806
+polecat.cs.uni-bonn.de 9 9 50065 20201130111938
+85-127-164-145.dsl.dynamic.surfer.at 0 1 20434 
+213162073241.public.t-mobile.at 0 1 20434 
+80-110-96-28.cgn.dynamic.surfer.at 0 1 20434 
+162.243.247.80 1 1 85 20201122163515
+80-110-120-163.cgn.dynamic.surfer.at 0 1 20434 
+134.0.121.138 0 1 20434 
+91-115-232-235.adsl.highway.telekom.at 0 1 20434 
+91-113-55-7.adsl.highway.telekom.at 0 1 20434 
+159.89.133.153 1 1 0 20201122064903
+217-149-167-56.nat.highway.telekom.at 0 1 20434 
+217-149-165-109.nat.highway.telekom.at 0 1 20434 
+84-112-211-90.cable.dynamic.surfer.at 0 2 40868 
+185.220.101.193 0 1 27218 
+193-80-1-116.hdsl.highway.telekom.at 0 1 20434 
+80-123-8-207.adsl.highway.telekom.at 0 1 20434 
+ec2-3-238-129-176.compute-1.amazonaws.com 3 3 10022 20201130101039
+046125250068.public.t-mobile.at 0 1 20434 
+38.145.101.129 1 1 0 20201124171601
+36.99.136.133 1 1 10021 20201125091431
+213-225-38-58.nat.highway.a1.net 0 2 40868 
+84-115-152-177.cable.dynamic.surfer.at 0 1 20434 
+dslb-088-071-138-104.088.071.pools.vodafone-ip.de 0 1 20434 
+host220.pcpoint.cz 0 1 20434 
+91-115-155-147.adsl.highway.telekom.at 0 1 20434 
+36.81.44.36 6 6 3066 20201126130639
+msq-02-ten.kages.at 0 2 40868 
+p2e57acc7.dip0.t-ipconnect.de 0 1 20434 
+178.165.131.174.wireless.dyn.drei.com 0 1 20434 
+103.15.63.116 0 1 20434 
+p5b0d81f2.dip0.t-ipconnect.de 0 1 20434 
+84-72-161-79.dclient.hispeed.ch 0 1 20434 
+59.180.60.188.dynamic.wline.res.cust.swisscom.ch 0 1 20434 
+46.148.206.226 8 8 137275 20201127144707
+217-149-160-46.nat.highway.telekom.at 0 1 20434 
+ip5f5ac7a2.dynamic.kabel-deutschland.de 0 1 20434 
+27.98.196.178.dynamic.wline.res.cust.swisscom.ch 0 1 20434 
+92.240.207.154 1 1 0 20201126080425
+217-149-166-240.nat.highway.telekom.at 0 1 20434 
+dynamic-046-114-034-187.46.114.pool.telefonica.de 0 1 20434 
+62-46-74-18.adsl.highway.telekom.at 0 1 20434 
+pd9eb9ad6.dip0.t-ipconnect.de 0 1 20434 
+ec2-34-229-61-14.compute-1.amazonaws.com 4 4 0 20201128081518
+ec2-18-212-156-118.compute-1.amazonaws.com 1 1 0 20201129004609
+52.149.216.224 9 9 6132 20201125072201
+snipster24.go.mail.ru 0 1 142981 
+p5b311684.dip0.t-ipconnect.de 0 1 20434 
+165.225.200.194 0 1 20434 
+p579b6ea6.dip0.t-ipconnect.de 10 42 7981957 20201121190221
+pc-sourena.imag.fr 1 1 0 20201130022511
+149.224.201.240 0 1 20434 
+117.233.197.178.dynamic.wless.lssmb00p-cgnat.res.cust.swisscom.ch 0 1 20434 
+dsl-212-100-51-110.pool.bitel.net 0 1 20434 
+ppp-88-217-37-11.dynamic.mnet-online.de 0 1 20434 
+046125250086.public.t-mobile.at 0 1 20434 
+p5b055582.dip0.t-ipconnect.de 0 1 20434 
+ec2-54-80-38-81.compute-1.amazonaws.com 3 3 0 20201130134704
+213162068237.public.t-mobile.at 0 1 20434 
+105.108.66.192 87 91 223343 20201126172906
+242.64.68.34.bc.googleusercontent.com 0 1 20434 
+80-89-111-67.hdsl.highway.telekom.at 0 1 20434 
+77.118.182.69.wireless.dyn.drei.com 0 2 40868 
+ec2-18-234-92-209.compute-1.amazonaws.com 4 4 0 20201130211154
+dslb-094-221-176-171.094.221.pools.vodafone-ip.de 0 1 20434 
+078132114022.public.t-mobile.at 0 1 20434 
+dyndsl-037-138-126-234.ewe-ip-backbone.de 0 1 20434 
+20.37.48.166 3 3 1045 20201128081703
+178-189-166-227.adsl.highway.telekom.at 0 1 20434 
+dynamic-095-118-125-194.95.118.pool.telefonica.de 0 1 20434 
+sh-chi-us-gd1-wk104.internet-census.org 0 1 20434 
+80-110-118-239.cgn.dynamic.surfer.at 0 1 20434 
+ec2-54-82-223-191.compute-1.amazonaws.com 3 3 0 20201126133851
+p5b04550a.dip0.t-ipconnect.de 0 1 20434 
+211.176.125.70 1 1 0 20201124101957
+pptp-194-94-198-87.pptp.stw-bonn.de 0 1 20434 
+ec2-54-92-187-219.compute-1.amazonaws.com 2 2 0 20201130232819
+host212-183-238-85.hiway.at 0 1 20434 
+46-140-207-94.static.upc.ch 0 1 20434 
+193-80-119-139.hdsl.highway.telekom.at 0 1 20434 
+41.105.115.75 1 1 0 20201124131229
+213.33.94.57 0 1 20434 
+h193-128-111-41.ptr.roamsite.com 0 1 20434 
+ip-95-223-229-163.hsi16.unitymediagroup.de 0 1 20434 
+81-223-89-18.static.upcbusiness.at 0 1 20434 
+84-115-153-37.cable.dynamic.surfer.at 0 1 20434 
+80-110-117-128.cgn.dynamic.surfer.at 0 1 20434 
+178.165.131.149.wireless.dyn.drei.com 0 1 20434 
+80-110-109-119.cgn.dynamic.surfer.at 0 1 20434 
+ec2-107-23-225-193.compute-1.amazonaws.com 2 2 0 20201125154359
+80-110-76-21.cgn.dynamic.surfer.at 0 2 40868 
+93-82-129-237.adsl.highway.telekom.at 0 1 20434 
+p5dc3c061.dip0.t-ipconnect.de 0 1 20434 
+217-149-171-109.nat.highway.telekom.at 0 1 20434 
+87.5.222.35.bc.googleusercontent.com 1 1 10792 20201122112517
+p54a707e5.dip0.t-ipconnect.de 0 1 20434 
+77.119.128.60.wireless.dyn.drei.com 0 2 40868 
+83-215-148-159.hage.dyn.salzburg-online.at 0 1 20434 
+ip5f5bdb9f.dynamic.kabel-deutschland.de 0 1 20434 
+80.120.172.2 0 1 20434 
+p57bcd562.dip0.t-ipconnect.de 0 1 20434 
+p4ffc3ad9.dip0.t-ipconnect.de 0 1 20434 
+p548d2169.dip0.t-ipconnect.de 0 1 20434 
+ip5f5bf347.dynamic.kabel-deutschland.de 0 1 20434 
+20.51.186.134 1 1 0 20201122144335
+ec2-3-88-242-229.compute-1.amazonaws.com 3 3 0 20201130125119
+p3nlwpweb047.shr.prod.phx3.secureserver.net 1 1 48 20201127113538
+80-110-105-47.cgn.dynamic.surfer.at 0 1 20434 
+80-109-196-90.cable.dynamic.surfer.at 0 2 40868 
+089144195241.atnat0004.highway.a1.net 0 1 20434 
+185.243.187.94 0 1 20434 
+56-194.izhnt.ru 1 1 0 20201121103229
+87-243-172-123.ainet.at 0 1 20434 
+80-110-113-63.cgn.dynamic.surfer.at 0 1 20434 
+213162068225.public.t-mobile.at 0 1 20434 
+20.64.179.85 1 1 0 20201124154550
+77.118.178.50.wireless.dyn.drei.com 0 1 20434 
+ip5f58b24f.dynamic.kabel-deutschland.de 0 1 20434 
+046125250078.public.t-mobile.at 0 1 20434 
+dynamic-077-012-106-097.77.12.pool.telefonica.de 0 1 20434 
+178.115.130.188.wireless.dyn.drei.com 0 1 20434 
+213162073250.public.t-mobile.at 0 1 20434 
+213162073085.public.t-mobile.at 0 1 20434 
+ip-95-222-239-249.hsi15.unitymediagroup.de 0 1 20434 
+pd95c575e.dip0.t-ipconnect.de 0 1 20434 
+ec2-52-40-146-28.us-west-2.compute.amazonaws.com 5 5 37480 20201124150611
+046125250102.public.t-mobile.at 0 1 20434 
+muedsl-82-207-238-255.citykom.de 0 1 20434 
+84-112-125-29.cable.dynamic.surfer.at 0 1 20434 
+pd9f97c01.dip0.t-ipconnect.de 0 1 20434 
+160.85.7.51 0 1 20434 
+217.192.15.106 0 1 20434 
+36.99.136.130 2 8 882760 20201125091549
+p5b11f148.dip0.t-ipconnect.de 0 1 20434 
+80.120.6.194 0 1 20434 
+user-040-158.vpn.univie.ac.at 0 1 20434 
+213-47-19-98.static.upcbusiness.at 0 1 20434 
+dynamic-046-114-006-129.46.114.pool.telefonica.de 0 1 20434 
+p5787ca05.dip0.t-ipconnect.de 0 1 20434 
+193.107.156.74 0 1 20434 
+212-186-110-117.static.upcbusiness.at 0 1 20434 
+p5b248b39.dip0.t-ipconnect.de 0 1 20434 
+ec2-18-196-81-199.eu-central-1.compute.amazonaws.com 0 18 367812 
+089144217073.atnat0026.highway.a1.net 0 2 40868 
+ip-95-222-213-216.hsi15.unitymediagroup.de 0 1 20434 
+80-110-114-71.cgn.dynamic.surfer.at 0 1 20434 
+sfts.07.sampyy.info 1 1 8768 20201125154708
+dslb-188-103-029-193.188.103.pools.vodafone-ip.de 0 1 20434 
+80-109-198-182.cable.dynamic.surfer.at 0 1 20434 
+134.100.186.1 0 1 20434 
+p5de640f2.dip0.t-ipconnect.de 0 1 20434 
+91-115-154-32.adsl.highway.telekom.at 0 1 20434 
+p54b3989a.dip0.t-ipconnect.de 0 1 20434 
+ec2-3-81-13-222.compute-1.amazonaws.com 2 2 0 20201125130841
+ip-37-201-185-94.hsi13.unitymediagroup.de 0 1 20434 
+80-110-107-54.cgn.dynamic.surfer.at 0 1 20434 
+089144204245.atnat0013.highway.webapn.at 0 1 20434 
+178.165.128.212.wireless.dyn.drei.com 0 1 20434 
+31-10-153-33.cgn.dynamic.upc.ch 0 1 20434 
+p3nlhg657.shr.prod.phx3.secureserver.net 1 1 72 20201127145525
+194.56.165.5 0 2 40868 
+192.71.3.26 0 2 0 
+unassigned-139.burdadigital.cz 1 1 10011 20201121192927
+x590fecf2.dyn.telefonica.de 0 1 20434 
+srvnet-01-079.ikbnet.co.at 0 1 20434 
+p4fc08746.dip0.t-ipconnect.de 0 1 20434 
+ip-109-40-3-194.web.vodafone.de 0 1 20434 
+mail.server-078.com 1 1 49 20201122163336
+ec2-35-153-134-226.compute-1.amazonaws.com 6 6 0 20201128214851
+91-115-227-147.adsl.highway.telekom.at 0 1 20434 
+178.171.22.250 1 1 50483 20201121080338
+77.119.129.203.wireless.dyn.drei.com 0 1 20434 
+80.122.24.94 0 1 20434 
+188-22-187-186.adsl.highway.telekom.at 0 1 20434 
+193-83-52-154.adsl.highway.telekom.at 0 1 20434 
+80-110-116-140.cgn.dynamic.surfer.at 0 1 20434 
+93.83.160.12 25 159 23825226 20201120214227
+dslb-002-204-253-117.002.204.pools.vodafone-ip.de 0 1 20434 
+ec2-52-206-245-41.compute-1.amazonaws.com 0 1 59356 
+sh-phx-us-gp1-wk107.internet-census.org 2 2 10001 20201125155109
+89.16.193.4 0 1 20434 
+ns3026883.ip-91-121-65.eu 7 9 74848 20201120213431
+110.34.180.139.static.krypt.com 12 12 202435 20201121175529
+aftr-37-201-212-221.unity-media.net 0 1 20434 
+i5e86b63f.versanet.de 0 1 20434 
+leasedline-static-091-249-204-036.ewe-ip-backbone.de 0 1 20434 
+ip-109-42-1-77.web.vodafone.de 0 1 20434 
+ip-5-147-113-249.unitymediagroup.de 0 1 20434 
+41.251.84.148 2 2 0 20201122133209
+178.165.130.84.wireless.dyn.drei.com 0 1 20434 
+gwc.cluster014.hosting.ovh.net 1 1 51 20201127145519
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 11
+20201120 266 497 35277743 15
+20201121 1743 2016 18993131 78
+20201122 3498 3870 29619339 96
+20201123 16 27 636729 15
+20201124 875 1148 14093820 120
+20201125 530 872 25612764 106
+20201126 1745 1965 17158383 144
+20201127 169 399 7495602 75
+20201128 164 277 9995917 110
+20201129 14 25 876965 10
+20201130 254 622 29581973 79
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 758
+15mn-30mn 11
+1h+ 6
+30s-2mn 33
+30mn-1h 7
+5mn-15mn 15
+2mn-5mn 18
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 415
+/ 3008 15775885 261 203
+/wp-admin/admin-ajax.php 273 273 2 0
+/wp-content/plugins/formcraft/file-upload/server/content/upload.php 205 750472 0 1
+/wp-admin/admin-post.php 191 0 0 0
+/vuln.htm 182 669584 0 0
+/.env 167 639931 19 29
+// 142 0 0 0
+/kontakt/ 120 2046707 47 36
+/wp-admin/ 110 0 1 3
+/wp-admin/vuln.htm 108 404690 0 0
+/wp-content/themes/NativeChurch/download/download.php 12 51503 0 0
+/wikindex.php 7 54498 0 0
+/admin/.env 3 7358 0 0
+/common/admin/Calendar/Telerik.Web.UI.DialogHandler.aspx 2 7358 0 0
+//graphql 6 0 0 0
+/tag/facebook-api/feed/ 9 0 9 8
+/wp-admin/img.php 3 0 0 0
+/images/stories/black.php 5 0 0 0
+/wp-content/cache/object/428/304/428304e5864d63c6ff4d1916408cb7f0.php 2 0 2 2
+/modules/mod_simplefileuploadv1.3/elements/eW1e4o.php 1 0 0 0
+/wp-content/plugins/wp-support-plus-responsive-ticket-system/includes/admin/downloadAttachment.php 107 404670 0 0
+/images/stories/0day.php 5 0 0 0
+/components/com_acym/acym.php 3 7337 1 1
+/wp-content/plugins/recent-backups/download-file.php 13 58861 0 0
+/news/wp-includes/wlwmanifest.xml 2 0 0 0
+/old/wp-content/plugins/ioptimization/IOptimize.php 1 0 0 0
+//wp-content/plugins/contabileads/integracoes/mautic/api-library/vendor/phpunit/phpunit/build.xml 6 0 0 0
+/impressum/ 8 91943 0 4
+/shop/.env 3 7358 0 1
+/cms/wp-includes/wlwmanifest.xml 2 0 0 0
+/tag/parallax/feed/ 8 0 8 8
+/images/stories/xsamxadoo.php 5 0 0 0
+/wp-content/plugins/revslider/temp/update_extract/JTblN8.php 1 0 0 0
+//blog/wp-includes/wlwmanifest.xml 1 0 0 0
+/wp1/wp-includes/wlwmanifest.xml 2 0 0 0
+/images/sym.php 4 0 0 0
+//vuln.htm 8 0 0 0
+/tag/responsiv-webdesign/ 3 30186 0 0
+/wp/wp-admin/setup-config.php 4 14714 0 0
+//wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 2 0 0 0
+/wp-content/index.php 2 0 0 0
+/businessfoto-wien/ 1 8717 0 0
+//wp-content/plugins/cherry-plugin/admin/import-export/download-content.php 6 0 0 0
+/images/stories/shell.php 5 0 0 0
+/test/wp-content/plugins/ioptimization/IOptimize.php 1 0 0 0
+/images/p.php 5 0 0 0
+/vendor/.env 3 7358 0 0
+/tag/mysql/ 1 10792 1 1
+/wordpress/wp-content/plugins/ioptimization/IOptimize.php 1 0 0 0
+/sites/all/libraries/elfinder/files/JTblN8.php 1 0 0 0
+/wp-content/plugins/woocommerce-software-license-manager/vendor/phpunit/phpunit/build.xml 101 375258 0 0
+/category/webseiten/page/2/ 2 21156 0 1
+/wp-content/plugins/google-mp3-audio-player/direct_download.php 13 58862 0 0
+/DesktopModules/Base/EditControls/Telerik.Web.UI.DialogHandler.aspx 2 7359 0 0
+/portal/channels/fa/Cms_HtmlText_Manage/Telerik.Web.UI.DialogHandler.aspx 2 7359 0 0
+/category/webseiten/ 5 39774 0 0
+//wp-json/wp/v2/users/ 39 78819 0 23
+/_controls/responsive/Telerik.Web.UI.DialogHandler.aspx 2 7358 0 0
+//wp-content/themes/enfold-child/update_script/vendor/phpunit/phpunit/build.xml 6 0 0 0
+/wp-json/wp/v2/users 1 538 1 0
+/e/admin/ 1 7358 0 0
+/xxxss 2 7356 0 1
+/DesktopModules/TelerikWebUI/RadEditorProvider/Telerik.Web.UI.DialogHandler.aspx 2 7358 0 0
+/tag/gewinnspiel/feed/ 8 0 8 7
+//test/wp-includes/wlwmanifest.xml 1 0 0 0
+/wp2/wp-includes/wlwmanifest.xml 2 0 0 0
+/feedback/ 1 28135 1 1
+/web/wp-includes/wlwmanifest.xml 2 0 0 0
+/wp-content/plugins/simple-image-manipulator/controller/download.php 13 58862 0 0
+/new/wp-content/plugins/ioptimization/IOptimize.php 1 0 0 0
+/demo/wp-content/plugins/ioptimization/IOptimize.php 1 0 0 0
+/images/stories/ali.php 4 0 0 0
+/stat/ 1 27252 1 1
+/wp-content/themes/dazzling/inc/fonts/fontawesome-webfont.woff2 37 2465111 0 13
+/modules/shop/manage/telerik.web.ui.dialoghandler.aspx 2 7358 0 0
+/tag/blog/ 40 1957736 1 0
+//upload/adminer.php 6 0 0 0
+/kiennast-info/ 2 17555 0 1
+/tag/jquery-player/feed/ 9 0 9 9
+/tag/facbook-api/feed/ 8 0 8 8
+/tag/android/ 1 8534 0 0
+/tag/responsiv-webdesign/feed/ 8 0 8 6
+/images/stories/0d4y.php 5 0 0 0
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 8 29386 3 3
+/feed/ 9 0 9 9
+//wp-content/themes/NativeChurch/download/download.php 6 0 0 0
+/sites/all/libraries/elfinder/files/jlsliU.php 1 0 0 0
+/wp/wp-admin/ 1 27218 1 1
+/wp-content/plugins/advanced_file_manager_5/php/connector.minimal.php 6 14715 2 2
+/wp-content/plugins/revslider/temp/update_extract/jlsliU.php 1 0 0 0
+/wp-json/wp/v2/posts/None 12 828 0 0
+/wp-content/themes/dazzling/inc/fonts/fontawesome-webfont.eot 2 137692 0 1
+/sites/all/libraries/elfinder/files/cf8JmJ.php 1 0 0 0
+/images/stories/s.php 5 0 0 0
+/bin/logo_img.php 4 0 0 0
+/mindex.php 10 81686 0 1
+/test/wp-admin/setup-config.php 2 7358 0 0
+/wp-admin/vuln.php 108 404668 1 0
+/author/simone/feed/ 10 0 10 10
+/tag/e-commerce/feed/ 11 0 10 10
+//wp-content/plugins/sniplets/modules/syntax_highlight.php 6 0 0 0
+//wp-content/plugins/cloudflare/vendor/phpunit/phpunit/build.xml 6 0 0 0
+/googleb2dec4c500571958.html 1 53 1 1
+/wp-content/plugins/fighter/wp-blog.php 4 0 0 0
+/wp-json/wp/v2/posts/796,%22href%22:%22https:%5C/%5C/www.schally.at%5C/wp-json%5C/wp%5C/v2%5C/posts%5C/741%5C/revisions%5C/796%22%7D%5D,%22wp:featuredmedia%22:%5B%7B%22embeddable%22:true,%22href%22:%22https:%5C/%5C/www.schally.at%5C/wp-json%5C/wp%5C/v2%5C/media%5C/742%22%7D%5D,%22wp:attachment%22:%5B%7B%22href%22:%22https:%5C/%5C/www.schally.at%5C/wp-json%5C/wp%5C/v2%5C/media 90 6210 0 0
+/Modules/CMS/Telerik.Web.UI.DialogHandler.aspx 2 7358 0 0
+/tag/sdk/feed/ 10 0 10 10
+/tag/application/feed/ 9 0 8 9
+//wp-admin/vuln.htm 8 0 0 0
+/libraries/joomla/wso.php 5 0 0 0
+/sites/all/libraries/elfinder/files/eW1e4o.php 1 0 0 0
+/tag/theme/feed/ 7 0 6 7
+/test/wp-admin/install.php 2 7358 0 0
+/2014/04d\"rsyb'tio/ 1 0 1 0
+/wp-content/themes/mTheme-Unus/css/css.php 11 44148 0 0
+/images/stories/filemga.php 5 0 0 0
+/wp-admin/adminer.php 11 44146 0 0
+/Admin/Telerik.Web.UI.DialogHandler.aspx 2 7358 0 0
+/wp-content/plugins/barclaycart/uploadify/settings_auto.php 90 331091 0 0
+/2017/wp-includes/wlwmanifest.xml 2 0 0 0
+/sitemap_index.xml 2 1084 2 1
+/tmp/pz.php 5 0 0 0
+/author/admin/ 6 48283 0 1
+/2015/wp-includes/wlwmanifest.xml 2 0 0 0
+/wp-json/wp/v2/posts/ 99 203154 0 0
+/laravel/.env 3 7358 0 0
+/images/stories/a.php 5 0 0 0
+/cms/portlets/Telerik.Web.UI.DialogHandler.aspx 2 7358 0 0
+/DesktopModules/News/Telerik.Web.UI.DialogHandler.aspx 2 7359 0 0
+/tag/suchmaschine/feed/ 10 0 9 10
+//news/wp-includes/wlwmanifest.xml 1 0 0 0
+/tmp/upxx.php 4 0 0 0
+//vendor/phpunit/phpunit/src/Util/PHP/king.php 1 0 1 0
+/wp/wp-admin/install.php 2 7358 0 0
+/tag/teaser/feed/ 8 0 8 7
+/wp-content/plugins/adminer/inc/editor/index.php 10 0 0 0
+//adminer/ 6 0 0 0
+/kindex.php 10 81748 0 0
+/Admin/ServerSide/Telerik.Web.UI.DialogHandler.aspx 2 7359 0 0
+/wp-admin/images/index.php 7 0 0 0
+/wp-content/plugins/google-document-embedder/libs/pdf.php 12 51506 0 0
+//wp-content/plugins/realia/libraries/PayPal-PHP-SDK/vendor/phpunit/phpunit/build.xml 6 0 0 0
+/images/upxx.php 4 0 0 0
+/tag/blog/feed/ 8 0 8 8
+//wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/build.xml 6 0 0 0
+/tag/jquery/feed/ 8 0 6 7
+/p 2 0 0 0
+/wp-content/plugins/db-backup/download.php 12 51503 0 0
+/wp-content/plugins/mygallery/myfunctions/mygallerybrowser.php 13 58861 0 0
+/admin/wp-content/plugins/ioptimization/IOptimize.php 1 0 0 0
+/.ftpconfig 3 7358 0 0
+/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/build.xml 103 382623 0 0
+/category/social-media/ 2 8423 0 1
+/wp-comments-post.php 2 0 0 0
+/wp-content/plugins/mac-dock-gallery/macdownload.php 10 44149 0 0
+//wp-content/_input_3_vuln.htm 4 0 0 0
+//wp2/wp-includes/wlwmanifest.xml 1 0 0 1
+//wp-includes/wlwmanifest.xml 48 50160 8 8
+//fckeditor/editor/filemanager/connectors/php/upload.php 6 0 0 0
+/promenade-aiola/ 1 8746 0 0
+/images/stories/alfa.php 5 0 0 0
+//wp-content/plugins/barclaycart/uploadify/settings_auto.php 4 0 0 0
+/.vscode/sftp.json 3 7358 0 0
+/libraries/respectMuslims.php 5 0 0 0
+/spacecrowd/ 1 8248 0 0
+//wp-content/plugins/mygallery/myfunctions/mygallerybrowser.php 6 0 0 0
+/wp-json/oembed/1.0/embed 13 24246 0 0
+/blog/wp-includes/wlwmanifest.xml 2 0 1 0
+/category/event/feed/ 10 0 10 10
+/.remote-sync.json 3 7358 0 0
+/category/mobile-apps/feed/ 8 0 8 8
+//wp-content/plugins/adminer/inc/editor/index.php 6 0 0 0
+//wp-json/wp/v2/posts/ 4 8292 0 0
+/2014/04drsybtio/ 1 27219 0 0
+/asdf/ 1 7356 0 0
+/Telerik.Web.UI.DialogHandler.aspx 2 7358 0 0
+/vendor/phpunit/phpunit/phpunit.xsd 1 7358 0 0
+/images/stories/webroot.php 4 0 0 0
+//wp-content/plugins/jekyll-exporter/vendor/phpunit/phpunit/build.xml 6 0 0 0
+/tag/tourismus/feed/ 9 0 9 9
+/media/jmail.php 4 0 0 0
+/author/sebastian-schally/ 9 95060 1 0
+/wp-content/plugins/prh-api/vendor/phpunit/phpunit/build.xml 103 382615 0 0
+//shop/wp-includes/wlwmanifest.xml 1 0 0 0
+/2014/04d%22rsyb%27tio/ 2 27249 0 1
+/_input_3_vuln.htm 101 367900 0 0
+/tag/mysql/feed/ 7 0 7 7
+/wp-admin/setup-config.php 46 55108 0 0
+/media/css.php 4 0 0 0
+/category/uncategorized/feed/ 8 0 8 8
+/images/logo_img.php 5 0 0 0
+//wp-content/plugins/db-backup/download.php 5 0 0 0
+/category/event/ 1 8091 0 0
+/old/wp-admin/setup-config.php 2 7358 0 0
+/blog/wp-admin/install.php 2 7358 0 0
+/media/wp-includes/wlwmanifest.xml 2 0 0 0
+/multibyte-io/ 8 117334 4 5
+/tmp/guide.php 5 0 0 0
+//wp-content/plugins/mac-dock-gallery/macdownload.php 5 0 0 0
+/wp-content/plugins/viral-optins/api/uploader/file-uploader.php 102 375234 0 1
+/3w2WD4A7_index.php 3 56472 3 3
+/wp-content/plugins/revslider/temp/update_extract/cf8JmJ.php 1 0 0 0
+/images/stories/3xp.php 5 0 0 0
+/sites/.env 3 7358 0 0
+/DesktopModules/YA.Controls/AngularMain/Telerik.Web.UI.DialogHandler.aspx 2 7358 0 0
+//wp-content/plugins/google-document-embedder/libs/pdf.php 6 0 0 0
+/images/upa.php 4 0 0 0
+/zahnpromo-shop-webseite/ 1 8631 0 0
+/shop/wp-includes/wlwmanifest.xml 2 0 0 0
+/wp-content/plugins/hd-webplayer/playlist.php 105 389961 0 0
+/tag/facebook/feed/ 10 0 10 10
+/2018/01/ 39 1074835 0 1
+/old/wp-admin/install.php 2 7337 0 0
+//adminer/adminer.php 6 0 0 0
+/images/stories/gh.php 4 0 0 0
+/author/simone/ 5 43043 0 0
+/wp-content/themes/dazzling/inc/fonts/glyphicons-halflings-regular.woff2 1 18028 0 0
+/autodiscover/autodiscover.xml 10 61922 1 3
+/test/.env 3 7358 0 0
+/tag/mobile/feed/ 11 0 10 11
+/App_Master/Telerik.Web.UI.DialogHandler.aspx 2 7358 1 0
+/upload/adminer.php 13 58864 0 0
+/media/jss.php 4 0 0 0
+//wp-content/themes/churchope/lib/downloadlink.php 6 0 0 0
+/tag/plastische-chirurgie/feed/ 10 0 10 10
+/blog/wp-admin/setup-config.php 2 7358 0 0
+//wp-content/plugins/aspose-doc-exporter/aspose_doc_exporter_download.php 6 0 0 0
+/images/vuln.php 3 0 0 3
+/libraries/joomla/zipy.php 5 0 0 0
+//website/wp-includes/wlwmanifest.xml 1 0 0 0
+//wp-admin/admin-ajax.php 29 29 0 0
+/old/wp-admin/ 1 27218 1 1
+/wp-content/plugins/mm-plugin/inc/vendors/vendor/phpunit/phpunit/build.xml 103 382596 0 0
+//wp-content/plugins/tera-charts/charts/treemap.php 6 0 0 0
+/2014/08/ 1 0 1 1
+/author/admin/feed/ 10 0 10 10
+/wordpress/wp-admin/setup-config.php 4 14717 0 1
+/wp-content/themes/dazzling/inc/fonts/glyphicons-halflings-regular.eot 3 60150 1 1
+//uploads/adminer.php 6 0 0 0
+/wordpress/wp-admin/install.php 2 7358 0 0
+//_input_3_vuln.htm 4 0 0 0
+/wp/wp-content/plugins/ioptimization/IOptimize.php 1 0 0 0
+/libraries/joomla/css.php 5 0 0 0
+//wp-json/wp/v2/posts/None 2 138 0 0
+/tag/php/feed/ 9 0 9 9
+//index.php 6 0 2 1
+/wp-admin/user/404.php 2 0 0 0
+/new/wp-admin/install.php 2 7358 0 0
+/category/webseiten/feed/ 11 0 11 10
+/DesktopModule/UIQuestionControls/UIAskQuestion/Telerik.Web.UI.DialogHandler.aspx 2 7359 0 0
+/wp-content/plugins/cherry-plugin/admin/import-export/download-content.php 13 58861 0 0
+/tag/hr/feed/ 9 0 9 9
+/wp-admin/admin.php 18 0 0 0
+/tag/browser-plugin/feed/ 8 0 8 8
+//wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/build.xml 6 0 0 0
+//wp-content/plugins/hd-webplayer/playlist.php 6 0 0 0
+//adminer/adminer-4.7.0.php 6 0 0 0
+/google195551c7d9cf3073.html 1 7212 1 1
+//wp-admin/install.php 1 538 1 0
+/wp-admin/js/index.php 5 0 1 0
+/sites/default/files/vuln.php 4 0 0 1
+/images/wp-mail.php 4 0 0 0
+/el/Providers/HtmlEditorProviders/Telerik/Telerik.Web.UI.DialogHandler.aspx 2 7359 0 0
+/wp-content/themes/churchope/lib/downloadlink.php 12 51504 0 0
+/images/stories/gass.php 4 0 0 0
+/tag/ratgeber/feed/ 7 0 7 7
+/wp-content/plugins/tera-charts/charts/treemap.php 13 58862 0 0
+/DesktopModules/TNComments/Telerik.Web.UI.DialogHandler.aspx 2 7359 0 0
+//wp-content/themes/mTheme-Unus/css/css.php 5 0 0 0
+/site/wp-includes/wlwmanifest.xml 2 0 0 0
+/wp-content/plugins/realia/libraries/PayPal-PHP-SDK/vendor/phpunit/phpunit/build.xml 101 375242 0 0
+//wp-admin/ 8 0 0 1
+/jm-ajax/upload_file/ 101 375264 0 0
+//wp-admin/mysql-adminer.php 5 0 0 0
+/website/wp-includes/wlwmanifest.xml 2 0 0 0
+/sitemap.xml 4 0 4 4
+/tag/one-pager/feed/ 6 0 6 5
+/wp-content/upgrade/theme-compat/popup-pomo.php 5 0 0 0
+/drinessauer-at/ 11 152095 9 6
+/index.php 15 7250 4 3
+/mail/config-v1.1.xml 7 7334 2 0
+/Components/General/Admin/UserControl/Telerik.Web.UI.DialogHandler.aspx 2 7358 0 0
+/public/.env 3 7358 0 0
+/ftpsync.settings 3 7358 0 1
+//wp-admin/admin.php 11 0 0 0
+/2019/wp-content/plugins/ioptimization/IOptimize.php 1 0 0 1
+/uploads/adminer.php 12 51508 0 0
+/wp-admin/network/plugin-delete.php 2 0 0 0
+/tag/android/feed/ 8 0 8 6
+/wp-content/plugins/ioptimization/IOptimize.php 5 14717 2 2
+/author/sebastian-schally/feed/ 9 0 9 9
+/D6Y7m5o1_index.php 7 54594 5 5
+/adminer/adminer.php 11 51508 0 0
+/wp-content/plugins/contabileads/integracoes/mautic/api-library/vendor/phpunit/phpunit/build.xml 102 375236 0 1
+/2016/wp-includes/wlwmanifest.xml 2 0 0 0
+//vendor/phpunit/phpunit/build.xml 6 0 0 0
+//wp-admin/setup-config.php 4 4792 0 0
+/ajax-index.php 1 0 0 0
+//wp-content/plugins/woocommerce-software-license-manager/vendor/phpunit/phpunit/build.xml 6 0 0 0
+//wp-content/plugins/cherry-plugin/admin/import-export/settings_auto.php 7 0 0 0
+//jm-ajax/upload_file/ 6 0 0 0
+/tag/mediaplayer/feed/ 9 0 9 9
+/tag/medizin/feed/ 9 0 9 9
+/adminer/ 19 103014 0 0
+/tmp/bogel.php 5 0 0 0
+/tag/paypal/feed/ 8 0 8 8
+/DesktopModules/Admin/RadEditorProvider/DialogHandler.aspx 2 7359 0 0
+/images/stories/u.php 4 0 0 0
+//2018/wp-includes/wlwmanifest.xml 1 0 0 0
+/tag/gastronomie/feed/ 9 0 9 9
+/sftp-config.json 3 7334 1 0
+/shiki-webseite/ 6 0 3 0
+/tag/ios/feed/ 10 0 9 10
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 7337 0 1
+/shiki-at-2/ 4 35089 1 3
+//wp-content/plugins/cherry-plugin/admin/import-export/upload.php 8 0 0 0
+/wp-content/plugins/cherry-plugin/admin/import-export/settings_auto.php 99 367898 0 0
+/images/w0rm.php 4 0 0 0
+/wp-json/wp/v2/users/ 1 0 0 1
+//.env 11 0 0 0
+/wp-content/plugins/adminer/inc/editor/ 7 51506 0 0
+/tag/mehrsprachig/feed/ 7 0 7 7
+//wp-content/plugins/simple-image-manipulator/controller/download.php 6 0 0 0
+/wp-content/plugins/cherry-plugin/admin/import-export/upload.php 100 375257 0 0
+/common/admin/Jobs2/Telerik.Web.UI.DialogHandler.aspx 2 7359 0 0
+/api/.env 3 7358 0 0
+/images/xxu.php 5 0 4 0
+/dashboard/UserControl/CMS/Page/Telerik.Web.UI.DialogHandler.aspx 2 7358 0 0
+/wp-content/plugins/fighter/upx.php 4 0 0 0
+/wp-content/plugins/revslider/temp/update_extract/eW1e4o.php 1 0 0 0
+/category/social-media/feed/ 9 0 7 9
+/sito/wp-includes/wlwmanifest.xml 2 0 0 2
+/tag/startup/feed/ 8 0 7 7
+/graphql 105 389976 0 0
+//vendor/phpunit/phpunit/phpunit.xsd 2 0 0 0
+/common/admin/PhotoGallery2/Telerik.Web.UI.DialogHandler.aspx 2 7358 0 0
+/tag/video/ 1 7479 0 0
+/b7fNtSez_index.php 23 81523 23 23
+//wp-admin/adminer.php 5 0 0 0
+/2020/wp-content/plugins/ioptimization/IOptimize.php 1 0 0 0
+/hellrun-at-webseite/ 1 8266 0 0
+/usage/ 1 27218 1 1
+//wp-content/plugins/google-mp3-audio-player/direct_download.php 6 0 0 0
+/wp-content/_input_3_vuln.htm 100 367896 0 0
+/libraries/joomla/web.php 5 0 0 0
+//wp-content/plugins/prh-api/vendor/phpunit/phpunit/build.xml 6 0 0 0
+/thefirstline-net/ 1 8882 0 1
+/tag/shop/ 1 8255 0 0
+/admin/ 3 0 1 0
+/cache/clean.php 5 0 0 0
+/modules/mod_simplefileuploadv1.3/elements/cf8JmJ.php 1 0 0 0
+//wp-content/plugins/recent-backups/download-file.php 6 0 0 0
+/adminer/index.php 9 0 0 0
+/Providers/HtmlEditorProviders/Telerik/Telerik.Web.UI.DialogHandler.aspx 2 7359 0 0
+/wp-admin/mysql-adminer.php 12 51504 0 0
+/tag/microsite/feed/ 8 0 8 8
+/tag/crossfire/feed/ 10 0 9 10
+/backup/wp-admin/ 3 27218 1 1
+/fckeditor/editor/filemanager/connectors/php/upload.php 101 375260 0 0
+/.well-known/autoconfig/mail/config-v1.1.xml 7 7358 0 0
+/heffterhof-at/ 1 8478 0 0
+/tag/social-network/feed/ 8 0 8 8
+/tag/wordpress/feed/ 10 0 10 10
+/wine-partners-at/ 1 7882 0 0
+/vendor/phpunit/phpunit/build.xml 101 375240 0 0
+/schloss-aiola-at/ 1 33565 1 0
+//wp-json/wp/v2/posts/796,%22href%22:%22https:%5C/%5C/www.schally.at%5C/wp-json%5C/wp%5C/v2%5C/posts%5C/741%5C/revisions%5C/796%22%7D%5D,%22wp:featuredmedia%22:%5B%7B%22embeddable%22:true,%22href%22:%22https:%5C/%5C/www.schally.at%5C/wp-json%5C/wp%5C/v2%5C/media%5C/742%22%7D%5D,%22wp:attachment%22:%5B%7B%22href%22:%22https:%5C/%5C/www.schally.at%5C/wp-json%5C/wp%5C/v2%5C/media 4 276 0 0
+/baindex.php 10 81717 0 0
+/blog/.env 3 7358 0 0
+/tag/seo/feed/ 8 0 8 8
+/author/wp-login.php 1 29542 1 1
+/wp-content/plugins/aspose-doc-exporter/aspose_doc_exporter_download.php 13 58863 0 0
+/wordpress/wp-includes/wlwmanifest.xml 2 0 0 0
+//wp-admin/vuln.php 9 0 0 0
+/wp/wp-includes/wlwmanifest.xml 2 0 0 0
+//wp-admin/admin-post.php 12 0 0 0
+//wp-content/plugins/formcraft/file-upload/server/content/upload.php 8 0 0 0
+/unijobs-at-der-blog/ 38 1232840 0 13
+/tag/portal/feed/ 9 0 9 9
+/2018/wp-includes/wlwmanifest.xml 2 0 0 0
+/DesktopModules/dnnWerk.RadEditorProvider/DialogHandler.aspx 2 7358 0 0
+/wp-content/themes/enfold-child/update_script/vendor/phpunit/phpunit/build.xml 101 375263 0 0
+/wp-content/plugins/barclaycart/uploadify/uploadify.php 90 331086 0 0
+/admin/login.php 4 14715 2 0
+//wp-content/plugins/barclaycart/uploadify/uploadify.php 4 0 0 0
+/rudolfvienna-com/ 1 8417 0 0
+/vendor/phpunit/phpunit/src/Util/PHP/king.php 1 7356 0 1
+/tmp/sfx.php 3 0 0 0
+/blog/wp-content/plugins/ioptimization/IOptimize.php 1 0 0 0
+/nanubuzz-com-ios-android-app/ 2 17320 1 1
+//wp-content/plugins/ungallery/source_vuln.php 9 0 0 0
+/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/build.xml 101 375234 0 0
+/page/2/ 12 116553 0 3
+/media/mass.php 2 0 0 0
+/wp-content/plugins/index.php 4 0 4 4
+/system/.env 3 7358 0 0
+/adminer/adminer-4.7.0.php 11 51508 0 0
+/modules/mod_simplefileuploadv1.3/elements/jlsliU.php 1 0 0 0
+/AsiCommon/Controls/ContentManagement/ContentDesigner/Telerik.Web.UI.DialogHandler.aspx 2 7358 0 0
+/wp-content/plugins/eshop-magic/download.php 6 22075 0 0
+/category/mobile-apps/ 1 9100 0 0
+/deployment-config.json 3 7358 0 0
+/wp-content/plugins/sniplets/modules/syntax_highlight.php 13 58862 0 0
+/tmp/petx.php 5 0 0 0
+/new/wp-admin/setup-config.php 4 14695 0 0
+//adminer/index.php 5 0 0 0
+/modules/mod_simplefileuploadv1.3/elements/JTblN8.php 1 0 0 0
+//wp-content/plugins/viral-optins/api/uploader/file-uploader.php 6 0 0 0
+/test/wp-includes/wlwmanifest.xml 2 0 0 0
+/e/admin/index.php 2 0 1 0
+/.vscode/ftp-sync.json 3 7358 0 0
+/wp-content/plugins/ungallery/source_vuln.php 104 389979 0 0
+//wp-content/plugins/wp-support-plus-responsive-ticket-system/includes/admin/downloadAttachment.php 10 0 0 0
+/wp-content/plugins/jekyll-exporter/vendor/phpunit/phpunit/build.xml 103 382555 0 0
+/DesktopModules/Rad%20EditorProvider/DialogHandler.aspx 2 7358 0 1
+END_SIDER

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40" >
+<g>
+	<line fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" x1="26" y1="9" x2="30" y2="9"/>
+	<line fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" x1="20" y1="15" x2="20" y2="12"/>
+	<path fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" d="M15,6v6h8c1.6568546,0,3-1.3431454,3-3s-1.3431454-3-3-3H15z"/>
+	<polygon fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" points="17.9984379,15.0015621 16,20 16,34 24,34 24,20 22.0015621,15.0015621 22,15 18,15 	"/>
+</g>
+</svg>

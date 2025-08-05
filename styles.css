@@ -13,13 +13,14 @@ body {
 }
 
 .container {
-    max-width: 800px;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 2rem;
     min-height: 100vh;
     display: flex;
+    flex-direction: column;
     align-items: center;
-    justify-content: center;
+    gap: 4rem;
 }
 
 .profile {
@@ -28,6 +29,8 @@ body {
     border-radius: 20px;
     background: white;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+    width: 100%;
+    max-width: 800px;
 }
 
 h1 {
@@ -46,11 +49,6 @@ h1 {
     margin-right: auto;
     line-height: 1.8;
     padding: 0 1rem;
-}
-
-.bio strong {
-    color: #333;
-    font-weight: 600;
 }
 
 .social-links {
@@ -72,4 +70,80 @@ h1 {
     color: #0066cc;
     background-color: #f8f9fa;
     transform: translateY(-2px);
+}
+
+/* Content Grid */
+.content-grid {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+    align-items: start;
+}
+
+.content-left, .content-right {
+    width: 100%;
+}
+
+/* Article Card */
+.article-card {
+    background: white;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s ease;
+    max-width: 400px;
+}
+
+.article-card:hover {
+    transform: translateY(-5px);
+}
+
+.article-content {
+    padding: 2rem;
+}
+
+.article-content h3 {
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+    color: #333;
+    line-height: 1.4;
+}
+
+.article-content p {
+    color: #666;
+    margin-bottom: 1.5rem;
+    line-height: 1.6;
+    font-size: 1rem;
+}
+
+.read-more {
+    display: inline-block;
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.2s ease;
+}
+
+.read-more:hover {
+    color: #004999;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .content-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .container {
+        padding: 1rem;
+    }
+    
+    .profile {
+        padding: 1.5rem;
+    }
+    
+    .article-card {
+        max-width: 100%;
+    }
 } 

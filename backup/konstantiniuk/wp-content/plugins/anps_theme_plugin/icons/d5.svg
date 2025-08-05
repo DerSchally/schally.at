@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40" >
+<g>
+	<path fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" d="M33.335659,21.425705C31.6768551,30.0005646,27.3574677,34,25.5557079,34
+		C22.9565315,34,22.8327618,28.9762535,20,28.9762535S17.0434685,34,14.444293,34
+		c-2.2533092,0-8.4442921-6.2552795-8.4442921-19.8924866C6.0000005,10.1072645,10.9039555,6,20,6
+		c0.6755753,0,1.3280239,0.0226564,1.957058,0.0662432"/>
+	<path fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" d="M11.0178108,16.0062828c0-2.7614231,2.2385759-4.999999,5-4.999999"/>
+	<polyline fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" points="26.553875,11.5265484 29.0418396,14.0144796 33.0257683,10.0305719 	"/>
+	<circle fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" cx="30" cy="12" r="7"/>
+</g>
+</svg>

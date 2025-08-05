@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40" >
+<g>
+
+		<rect x="15.3535538" y="11.6464462" transform="matrix(-0.7071068 -0.7071068 0.7071068 -0.7071068 20.8535538 47.9307175)" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" width="10" height="16"/>
+	<polyline fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" points="16.8180199,27.4246216 13.9895926,30.2530479 9.7469521,26.0104084 12.5753784,23.1819801 	"/>
+	<line fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" x1="11.8682718" y1="28.1317272" x2="6.2114177" y2="33.7885818"/>
+	<line fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" x1="30.2530479" y1="9.7469521" x2="26.0104084" y2="13.9895926"/>
+	<line fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" x1="33.7885818" y1="13.282486" x2="26.717514" y2="6.2114177"/>
+	<line fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" x1="16.8180199" y1="21.767767" x2="13.9895926" y2="18.9393406"/>
+	<line fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" x1="19.6464462" y1="18.9393406" x2="16.8180199" y2="16.1109123"/>
+	<line fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" x1="22.4748745" y1="16.1109123" x2="19.6464462" y2="13.282486"/>
+</g>
+</svg>

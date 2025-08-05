@@ -1,0 +1,4 @@
+AuthName "Schally.at Projekte"
+AuthType Basic
+AuthUserFile /home/schalabl/www.schally.at/ilias/.htpasswd
+require valid-user

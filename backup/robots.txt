@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /bub/
+Disallow: /bub/sss/
+Disallow: /projects/
+
+Sitemap: http://www.schally.at/sitemap.xml

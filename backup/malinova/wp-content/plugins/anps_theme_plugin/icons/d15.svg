@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40" >
+<g>
+	<circle fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" cx="20" cy="11.5" r="3.5999999"/>
+	<path fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" d="M29,15.8240471c0,3.8500004-2.0249996,8.2111187-4.5,9.9095058
+		c-1.2373486,0.8490906-2.868351,1.2736874-4.499403,1.2737904c-1.6314487,0.0001049-3.2629452-0.4244919-4.500597-1.2737904
+		c-2.4750004-1.6983871-4.5-6.0595055-4.5-9.9095058V10c0-3.8499999,3.1499996-7,7-7h4c3.8500004,0,7,3.1500001,7,7V15.8240471z"/>
+	<line fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" x1="23.6000004" y1="11.5" x2="29" y2="11.5"/>
+	<line fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" x1="11" y1="11.5" x2="16.3999996" y2="11.5"/>
+	<line fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" x1="13.9947605" y1="24.4180012" x2="13.9947605" y2="29.988533"/>
+	<line fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" x1="13.9947605" y1="29.988533" x2="8.7986078" y2="32.988533"/>
+	<line fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" x1="25.9851837" y1="24.4180012" x2="25.9851837" y2="29.988533"/>
+	<line fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" x1="25.9851837" y1="29.988533" x2="31.1813354" y2="32.988533"/>
+	<path fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" d="M8.8406267,32.988533c2.9663382,2.6423454,6.874301,3.9875641,11.1593847,3.9875641
+		s8.1930237-1.3452187,11.1593609-3.9875641"/>
+	<polyline fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" points="11,15 9.0745144,15.0036716 10.0372572,20 11.7032442,20 	"/>
+	<polyline fill="none" stroke="currentColor" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="4%" points="29.001194,15 30.9266796,15.0036716 29.9639359,20 28.2979507,20 	"/>
+</g>
+</svg>
